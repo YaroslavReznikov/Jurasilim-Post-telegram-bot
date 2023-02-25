@@ -21,14 +21,13 @@ def g(func):
 class parsing_part:
     def __init__(self):
         self.urls_list = []
+        self.__inisialization()
 
-    @staticmethod
-    def remove_link_tag(line):
-        line = line.replace("link", '')
-        line = line.replace("<", '')
-        line = line.replace(">", '')
-        return line.strip()
-
+    def __inisialization(self):
+        files = {"main_page.aspx": "https://rss.jpost.com/rss/rssfeedsfrontpage.aspx"}
+        for file, url in files.items():
+            with open(file, 'w', encoding='UTF-8') as inf:
+                inf.write(requests.get(url).text)
     @g
     def get_links(self, file, page_type="home page"):
         tree = ET.parse(file)
