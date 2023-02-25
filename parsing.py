@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import time
+import xml.etree.ElementTree as ET
+
 
 
 def g(func):
@@ -28,11 +30,11 @@ class parsing_part:
         return line.strip()
 
     @g
-    def get_links(self, url, page_type="home page"):
-        rec = requests.get(url)
-        self.urls_list = [(self.remove_link_tag(tag), page_type) for tag in rec.text.strip().split('\n') if
-                          'link' in tag and len(self.remove_link_tag(tag).split()) == 1]
-
+    def get_links(self, file, page_type="home page"):
+        tree = ET.parse(file)
+        root = tree.getroot()
+        for neighbor in root.iter('link'):
+            self.urls_list.append((neighbor.text, page_type))
     def database_sending(self):
         print(self.urls_list)
 #0.6857387000000001

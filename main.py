@@ -9,7 +9,7 @@ dp = Dispatcher(bot)
 
 
 pars = parsing.parsing_part()
-pars.get_links("https://rss.jpost.com/rss/rssfeedsfrontpage.aspx")
+pars.get_links("main_page.aspx")
 pars.database_sending()
 #@dp.message_handler(commands=['help', 'start'])
 #async def send_welcome_message(mesage: types.Message):
