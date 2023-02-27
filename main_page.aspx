@@ -10,170 +10,14 @@
                 
 
 <item>
-    <title>Tattooed Mexican cat seeks new home after life behind bars</title>
-    <link>https://www.jpost.com/omg/article-732684</link>
+    <title>Russia&#x27;s fighter jet deal with Iran is a sign of weakness - analysis</title>
+    <link>https://www.jpost.com/middle-east/iran-news/article-732688</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528248&#x27; /&gt;&lt;br /&gt;Mexican security authorities uncovered a tattooed Sphinx cat during a drug raid of a Juarez prison.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://www.jpost.com//HttpHandlers/ShowImage.ashx?id=335651&amp;w=898&amp;h=628&#x27; /&gt;&lt;br /&gt;Iran&#x2019;s acquisition of Russia&#x2019;s flailing aircraft may be more a sign of weakness than a real game-changer.&lt;br /&gt; 
      </description>
         <Photographer>REUTERS</Photographer>
-        <pubDate>Sat, 25 Feb 2023 09:14:42 GMT</pubDate>
-        <itemID>732684</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>sphinx,mexico,prison,Cats</Tags>
-        <CategoryID>99</CategoryID>
-        <SocialTitle>Tattooed Mexican cat seeks new home after life behind bars</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Can Israel come together once more after judicial reform?</title>
-    <link>https://www.jpost.com/podcast/yaakov-and-lahav/article-732630</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528217&#x27; /&gt;&lt;br /&gt;The Jerusalem Post Podcast with Yaakov Katz and guest co-host Tamar Uriel-Beeri.&#xD;&#xA;&lt;br /&gt; 
-     </description>
-        <Photographer>ERIK MARMOR/FLASH90</Photographer>
-        <pubDate>Fri, 24 Feb 2023 08:51:48 GMT</pubDate>
-        <itemID>732630</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>protests,Politics,demonstration in israel,jpost,podcast</Tags>
-        <CategoryID>130</CategoryID>
-            <SubCategoryID>1116</SubCategoryID>
-        <SocialTitle>Can Israel come together once more after judicial reform?</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Israel in the midst of days of angst and awe - opinion</title>
-    <link>https://www.jpost.com/opinion/article-732516</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528135&#x27; /&gt;&lt;br /&gt;Eventually the Almighty will turn His face toward us and grant us peace to live and let live &#x2013; all of us, regardless of our religiosity or sexual proclivities.&lt;br /&gt; 
-     </description>
-        <Photographer>ERIK MARMOR/FLASH90</Photographer>
-        <pubDate>Sat, 25 Feb 2023 07:53:04 GMT</pubDate>
-        <itemID>732516</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By PAMELA PELED</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>IDF,protests,PTSD,Bezalel Smotrich,democracy,Ben-Gvir,Judicial Reform</Tags>
-        <CategoryID>5</CategoryID>
-        <SocialTitle>Israel in the midst of days of angst and awe - opinion</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Netanyahu claims judicial reform protesters also protested COVID-19 vaccines</title>
-    <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-732670</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/527941&#x27; /&gt;&lt;br /&gt;The prime minister made these statements during a cabinet meeting regarding the protests against the reform.&lt;br /&gt; 
-     </description>
-        <Photographer>Abir Sultan/Pool via REUTERS</Photographer>
-        <pubDate>Sat, 25 Feb 2023 01:07:36 GMT</pubDate>
-        <itemID>732670</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Benjamin Netanyahu,protests,vaccine,COVID-19,Judicial Reform</Tags>
-        <CategoryID>69</CategoryID>
-            <SubCategoryID>128</SubCategoryID>
-        <SocialTitle>Netanyahu says judicial reform protesters also protested COVID vaccines</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Ukraine&#x27;s Zelensky says he plans to meet China&#x27;s Xi</title>
-    <link>https://www.jpost.com/breaking-news/article-732656</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/517504&#x27; /&gt;&lt;br /&gt;Zelensky on Friday welcomed some elements of a Chinese proposal for a ceasefire in Russia&#x27;s war on Ukraine.&lt;br /&gt; 
-     </description>
-        <Photographer>Ukrainian Presidential Press Service/Handout via REUTERS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 18:06:54 GMT</pubDate>
-        <itemID>732656</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By REUTERS</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>China,ukraine,Xi Jinping,Volodymyr Zelensky,Ukraine-Russia War</Tags>
-        <CategoryID>13</CategoryID>
-        <SocialTitle>Ukraine&#x27;s Zelensky says he plans to meet China&#x27;s Xi</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Russia&#x27;s Medvedev suggests &#x27;pushing Poland&#x27;s borders&#x27; as next phase of Ukraine war</title>
-    <link>https://www.jpost.com/international/article-732669</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/506749&#x27; /&gt;&lt;br /&gt;In a Telegram post, Russia&#x27;s former President advocated for the invasion of Russian borders, if it was necessary for a victory against Ukraine.&lt;br /&gt; 
-     </description>
-        <Photographer>SPUTNIK/YULIA ZYRYANOVA/POOL VIA REUTERS</Photographer>
-        <pubDate>Sat, 25 Feb 2023 00:51:10 GMT</pubDate>
-        <itemID>732669</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>poland,ukraine,dmitry medvedev,Ukraine-Russia War</Tags>
-        <CategoryID>13</CategoryID>
-        <SocialTitle>Russia&#x27;s Medvedev suggests &#x27;pushing Poland&#x27;s borders&#x27;</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Gaza contractors launch partial strike against UNRWA projects</title>
-    <link>https://www.jpost.com/middle-east/article-732681</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528246&#x27; /&gt;&lt;br /&gt;If the UNRWA continues to ignore the contractors&#x27; financial rights, the halt will be total by mid-May, union official says.&lt;br /&gt; 
-     </description>
-        <Photographer>HAZEM ALBAZ/THE MEDIA LINE</Photographer>
-        <pubDate>Sat, 25 Feb 2023 03:57:05 GMT</pubDate>
-        <itemID>732681</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By SANAA ALSWERKY/THE MEDIA LINE</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Gaza,strike,unrwa,The Media Line</Tags>
-        <CategoryID>12</CategoryID>
-        <SocialTitle>Gaza contractors launch partial strike against UNRWA projects</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Iran&#x27;s threat to Israel increases if it supplies air defense to Syria - analysis</title>
-    <link>https://www.jpost.com/middle-east/article-732660</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/520130&#x27; /&gt;&lt;br /&gt;The implications of Iran&#x2019;s claims are clear, it wants to show that it can supply Syria with a system that is a potential game-changer.&lt;br /&gt; 
-     </description>
-        <Photographer>MEHR NEWS AGENCY</Photographer>
-        <pubDate>Fri, 24 Feb 2023 20:31:27 GMT</pubDate>
-        <itemID>732660</itemID>
+        <pubDate>Sat, 25 Feb 2023 11:16:08 GMT</pubDate>
+        <itemID>732688</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -181,109 +25,44 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By SETH J. FRANTZMAN</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Israel,Hezbollah,Iran,Syria,Russia,iran air defense,Middle East</Tags>
+        <Tags>Iran,Syria,Russia,iran air defense,russia iran,Russian Jets,Ukraine-Russia War</Tags>
         <CategoryID>12</CategoryID>
-        <SocialTitle>Iran&#x27;s threat to Israel increases if it supplies air defense to Syria</SocialTitle>
+            <SubCategoryID>616</SubCategoryID>
+        <SocialTitle>Russia&#x27;s fighter jet deal with Iran is a sign of weakness - analysis</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Iran &#x27;likely&#x27; to supply Syria with air defense to combat Israeli airstrikes</title>
-    <link>https://www.jpost.com/international/article-732648</link>
+    <title>Israel&#x2019;s &#x2018;Top Gun&#x2019;: The US-Israeli aircraft that can take down Iran</title>
+    <link>https://www.jpost.com/israel-news/article-732487</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://www.jpost.com//HttpHandlers/ShowImage.ashx?id=351238&amp;w=898&amp;h=628&#x27; /&gt;&lt;br /&gt;&#x201C;It is very likely that we will witness the supply by Iran of radars and defense missiles, such as the 15 Khordad system, to reinforce Syria&#x27;s air defenses,&#x201D; Iranian state TV said.&lt;br /&gt; 
-     </description>
-        <Photographer>REUTERS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 14:37:40 GMT</pubDate>
-        <itemID>732648</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By REUTERS</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Iran,Syria,Syria Iran,missiles</Tags>
-        <CategoryID>13</CategoryID>
-        <SocialTitle>Iran &#x27;likely&#x27; to supply Syria with air defense to combat Israeli strikes</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Iran paper urges kidnapping of German diplomats in Tehran</title>
-    <link>https://www.jpost.com/middle-east/article-732654</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/519182&#x27; /&gt;&lt;br /&gt;Critics call on EU and Germany to expel all Iranian regime diplomats and close pro-Khamenei centers  &#xD;&#xA;&lt;br /&gt; 
-     </description>
-        <Photographer>REUTERS/CHRISTIAN MANG</Photographer>
-        <pubDate>Fri, 24 Feb 2023 17:08:09 GMT</pubDate>
-        <itemID>732654</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By BENJAMIN WEINTHAL</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Iran,germany,iran germany relations,death row</Tags>
-        <CategoryID>12</CategoryID>
-        <SocialTitle>Iran paper urges kidnapping of German diplomats in Tehran</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Iran says it has developed long-range cruise missile</title>
-    <link>https://www.jpost.com/middle-east/article-732663</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528085&#x27; /&gt;&lt;br /&gt;Iran has expanded its missile program, particularly its ballistic missiles, in defiance of opposition from the United States and expressions of concern by European countries.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528082&#x27; /&gt;&lt;br /&gt;Top Israeli officials have all made direct threats against Iran. US-Israeli F-35 aircraft drills have helped make this option a possibility.&lt;br /&gt; 
      </description>
         <Photographer>IDF SPOKESPERSON&#x27;S UNIT</Photographer>
-        <pubDate>Fri, 24 Feb 2023 21:31:15 GMT</pubDate>
-        <itemID>732663</itemID>
+        <pubDate>Sat, 25 Feb 2023 13:56:15 GMT</pubDate>
+        <itemID>732487</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By REUTERS</Author>
+        <Author>By YONAH JEREMY BOB</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Iran,United States,Russia,weapons,missiles</Tags>
-        <CategoryID>12</CategoryID>
-        <SocialTitle>Iran says it has developed long-range cruise missile</SocialTitle>
+        <Tags>IAF,IDF,Iran,iran nuclear,F-35,Drill,US Air Force,aircraft</Tags>
+        <CategoryID>69</CategoryID>
+        <SocialTitle>Israel&#x2019;s &#x2018;Top Gun&#x2019;: The US-Israeli aircraft that can take down Iran</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Remembering family names is hard when you have so many - opinion</title>
-    <link>https://www.jpost.com/opinion/article-732521</link>
+    <title>Zelensky fires a top Ukrainian military commander, no reason given</title>
+    <link>https://www.jpost.com/breaking-news/article-732805</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/521054&#x27; /&gt;&lt;br /&gt;At the beginning, it was relatively easy. He could handle the names of his two kids, their spouses and seven grandchildren. But it all became a bit more unwieldy.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/527887&#x27; /&gt;&lt;br /&gt;Zelensky said he had spoke to Eduard Moskalyov in a daily address on Friday.&lt;br /&gt; 
      </description>
-        <Photographer>Wikimedia Commons</Photographer>
-        <pubDate>Fri, 24 Feb 2023 23:59:07 GMT</pubDate>
-        <itemID>732521</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By HERB KEINON</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Hebrew,yiddish,family,Language</Tags>
-        <CategoryID>5</CategoryID>
-        <SocialTitle>Remembering family names is hard when you have so many - opinion</SocialTitle>
-</item>
-                
-
-<item>
-    <title>White House: Russia may send fighter jets to Iran</title>
-    <link>https://www.jpost.com/breaking-news/article-732653</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/418710&#x27; /&gt;&lt;br /&gt;White House national security spokesperson John Kirby said Iran was also seeking to purchase attack helicopters, radars and combat trainer aircraft.&lt;br /&gt; 
-     </description>
-        <Photographer>REUTERS/MINISTRY OF DEFENSE OF THE RUSSIAN FEDERATION/HANDOUT VIA REUTERS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 17:01:32 GMT</pubDate>
-        <itemID>732653</itemID>
+        <Photographer>REUTERS/VALENTYN OGIRENKO</Photographer>
+        <pubDate>Sun, 26 Feb 2023 21:34:06 GMT</pubDate>
+        <itemID>732805</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -291,21 +70,287 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By REUTERS AND JERUSALEM POST STAFF</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Iran,Russia,ukraine,white house,fighter jets,Ukraine crisis,Ukraine-Russia War</Tags>
+        <Tags>ukraine,Volodymyr Zelensky,Military,War</Tags>
         <CategoryID>13</CategoryID>
-        <SocialTitle>White House: Russia may send fighter jets to Iran</SocialTitle>
+        <SocialTitle>Zelensky fires a top Ukrainian military commander</SocialTitle>
 </item>
                 
 
 <item>
-    <title>West reacts with skepticism to Chinese ceasefire proposal for Ukraine</title>
-    <link>https://www.jpost.com/international/article-732655</link>
+    <title>CIA rectal torture in Guant&#xE1;namo Bay condemned by doctor</title>
+    <link>https://www.jpost.com/international/article-732806</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528236&#x27; /&gt;&lt;br /&gt;&#x201C;There are 12 points in the Chinese plan. If they were serious about the first one, sovereignty, then this war could end tomorrow,&#x201D; said US Secretary of State Antony Blinken.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/468412&#x27; /&gt;&lt;br /&gt;Mr. Nashiri claimed that in 2013, he was subjected to &#x27;rectal feeding&#x27; and sodomized with a broom handle by prison staff.&lt;br /&gt; 
      </description>
-        <Photographer>MICHAEL VARAKLAS/POOL VIA REUTERS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 17:51:45 GMT</pubDate>
-        <itemID>732655</itemID>
+        <Photographer>MIKE THEILER/REUTERS</Photographer>
+        <pubDate>Sun, 26 Feb 2023 22:50:26 GMT</pubDate>
+        <itemID>732806</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Human rights,United States,rape,war crimes,usa</Tags>
+        <CategoryID>13</CategoryID>
+        <SocialTitle>CIA rectal torture in Guant&#xE1;namo Bay condemned by doctor</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Astrobiologist narrows search for alien life to five planets</title>
+    <link>https://www.jpost.com/science/article-732811</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/509800&#x27; /&gt;&lt;br /&gt;The new theory has saved countless hours of research and significant material resources.&lt;br /&gt; 
+     </description>
+        <Photographer>PIXABAY</Photographer>
+        <pubDate>Mon, 27 Feb 2023 02:51:06 GMT</pubDate>
+        <itemID>732811</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>space,Alien,planet,Astronomy</Tags>
+        <CategoryID>141</CategoryID>
+        <SocialTitle>Astrobiologist narrows search for alien life to five planets</SocialTitle>
+</item>
+                
+
+<item>
+    <title>&#x27;No words can console us&#x27;: Brothers Hillel and Yagel Yaniv killed in terror attack</title>
+    <link>https://www.jpost.com/israel-news/article-732785</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528304&#x27; /&gt;&lt;br /&gt;Hillel was studying in a hesder yeshiva in Kiryat Shmona and had recently completed his service in the Navy. Yagel was studying in a hesder yeshiva in Givat Olga.&lt;br /&gt; 
+     </description>
+        <Photographer>COURTESY OF THE FAMILY</Photographer>
+        <pubDate>Sun, 26 Feb 2023 16:03:19 GMT</pubDate>
+        <itemID>732785</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By TZVI JOFFRE</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>IDF,Terrorism,Terror Attack,yeshiva students</Tags>
+        <CategoryID>69</CategoryID>
+        <SocialTitle>&#x27;No words can console us&#x27;: Hillel, Yagel Yaniv killed in terror attack</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Huwara terrorist still at large after killing two, manhunt underway</title>
+    <link>https://www.jpost.com/breaking-news/article-732764</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528295&#x27; /&gt;&lt;br /&gt;The terrorist responsible for the attack has not yet been caught &#x2022; Police on high alert and government promises swift response&lt;br /&gt; 
+     </description>
+        <Photographer>NASSER ISHTAYEH/FLASH90</Photographer>
+        <pubDate>Sun, 26 Feb 2023 11:54:41 GMT</pubDate>
+        <itemID>732764</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By TZVI JOFFRE AND YONAH JEREMY BOB AND SHIRA SILKOFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>IDF,Palestinians,Terrorism,West Bank,Israeli Palestinian Conflict,Terror Attack</Tags>
+        <CategoryID>70</CategoryID>
+        <SocialTitle>Huwara terrorist still at large after killing two, manhunt underway </SocialTitle>
+</item>
+                
+
+<item>
+    <title>Settlers rampage in Huwara, torch homes, cars after terror attack</title>
+    <link>https://www.jpost.com/breaking-news/article-732775</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528318&#x27; /&gt;&lt;br /&gt;Israeli journalists Shahar Glick and Josh Breiner reported that a Jewish gunman dressed in black clothes and a military vest and helmet fired at them and threw stun grenades at them.&lt;br /&gt; 
+     </description>
+        <Photographer>Shlomi Heller/Walla</Photographer>
+        <pubDate>Sun, 26 Feb 2023 14:20:06 GMT</pubDate>
+        <itemID>732775</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By TZVI JOFFRE</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Palestinians,Settlers,West Bank,violence,Israeli Palestinian Conflict,Terror Attack</Tags>
+        <CategoryID>70</CategoryID>
+        <SocialTitle>Settlers rampage in Huwara, torch homes, cars after terror attack</SocialTitle>
+</item>
+                
+
+<item>
+    <title>US condemn West Bank violence, call for deescalation</title>
+    <link>https://www.jpost.com/international/article-732815</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/483386&#x27; /&gt;&lt;br /&gt;US spokesmen condemned the violence on Sunday and lauded the Aqaba meeting as an important step forward.&lt;br /&gt; 
+     </description>
+        <Photographer>REUTERS/Kevin Lamarque/POOL</Photographer>
+        <pubDate>Mon, 27 Feb 2023 03:46:47 GMT</pubDate>
+        <itemID>732815</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By OMRI NAHMIAS</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>violence,israel jordan,West Bank Violence,state department,aqaba,usa</Tags>
+        <CategoryID>13</CategoryID>
+        <SocialTitle>US condemn West Bank violence, call for deescalation</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Could tanks, helicopters secure quiet in W. Bank with Palestinians? - analysis</title>
+    <link>https://www.jpost.com/arab-israeli-conflict/article-732801</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_Control/261502&#x27; /&gt;&lt;br /&gt;There are many ideas, short of a messianic peace vision, that can help restore calm, but tanks and helicopters are either a tiny part or a nonexistent part of the solution.&lt;br /&gt; 
+     </description>
+        <Photographer>IDF SPOKESMAN&#x2019;S UNIT</Photographer>
+        <pubDate>Sun, 26 Feb 2023 18:41:34 GMT</pubDate>
+        <itemID>732801</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By YONAH JEREMY BOB</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Palestinians,West Bank,israel tanks,Israeli Palestinian Conflict,helicopter</Tags>
+        <CategoryID>70</CategoryID>
+        <SocialTitle>Could tanks, helicopters secure quiet in W. Bank with Palestinians?</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Death penalty for terrorists bill approved by Israeli cabinet</title>
+    <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-732772</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/525989&#x27; /&gt;&lt;br /&gt;Amnesty International Israel condemned the law&#x27;s approval by the ministerial committee, arguing that the death sentence is &quot;cruel, inhumane and humiliating.&quot;&lt;br /&gt; 
+     </description>
+        <Photographer>CHAIM TZACH/GPO</Photographer>
+        <pubDate>Sun, 26 Feb 2023 13:34:44 GMT</pubDate>
+        <itemID>732772</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By ELIAV BREUER</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Terrorism,israeli politics,Terror Attack,Death penalty,Attorney-General,Terrorist</Tags>
+        <CategoryID>69</CategoryID>
+            <SubCategoryID>128</SubCategoryID>
+        <SocialTitle>Death penalty for terrorists bill approved by Israeli cabinet</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Shin Bet, Ben-Gvir battle over unsealing Palestinian terrorist&#x27;s house</title>
+    <link>https://www.jpost.com/israel-news/article-732761</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/519863&#x27; /&gt;&lt;br /&gt;The Shin Bet argued that the terrorist&#x27;s family may have taken actions to dissuade their psychologically unstable son from perpetrating terror.&lt;br /&gt; 
+     </description>
+        <Photographer>YONATAN SINDEL/FLASH90</Photographer>
+        <pubDate>Sun, 26 Feb 2023 11:30:41 GMT</pubDate>
+        <itemID>732761</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By YONAH JEREMY BOB</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>IDF,Jerusalem,Palestinians,Shin Bet,Terrorism,West Bank,Itamar Ben-Gvir</Tags>
+        <CategoryID>69</CategoryID>
+        <SocialTitle>Shin Bet, Ben-Gvir battle over unsealing Palestinian terrorist&#x27;s house</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Netanyahu: Israel did not promise to freeze settlement building at Aqaba</title>
+    <link>https://www.jpost.com/breaking-news/article-732786</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528309&#x27; /&gt;&lt;br /&gt;The Palestinian shooting attack in the West Bank that claimed the lives of two brothers during the summit underscored the urgent need to halt the violence.&lt;br /&gt; 
+     </description>
+        <Photographer>REUTERS/JEHAD SHELBAK</Photographer>
+        <pubDate>Sun, 26 Feb 2023 16:10:07 GMT</pubDate>
+        <itemID>732786</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By TOVAH LAZAROFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Jordan,Palestinians,West Bank,Israeli Palestinian Conflict</Tags>
+        <CategoryID>69</CategoryID>
+        <SocialTitle>Netanyahu: Israel did not promise to freeze settlement building at Aqaba</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Secret Hezbollah gold trade in South America foiled by Israeli intelligence</title>
+    <link>https://www.jpost.com/middle-east/iran-news/article-732802</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/519129&#x27; /&gt;&lt;br /&gt;In May, dozens of kilograms of gold were smuggled on an Iranian Mahan Air flight, which is subject to American sanctions, from Venezuela to Tehran.&lt;br /&gt; 
+     </description>
+        <Photographer>PR</Photographer>
+        <pubDate>Sun, 26 Feb 2023 19:23:48 GMT</pubDate>
+        <itemID>732802</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By Amir Bohbot/Walla!</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Hezbollah,Iran,Terrorism,hezbollah iran,south america,Venezuela,Gold</Tags>
+        <CategoryID>12</CategoryID>
+            <SubCategoryID>616</SubCategoryID>
+        <SocialTitle>Secret Hezbollah gold trade in South America foiled by Israeli forces</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Lessons of one year of war in Ukraine - analysis</title>
+    <link>https://www.jpost.com/international/article-732803</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/513197&#x27; /&gt;&lt;br /&gt;The lessons of the war in Ukraine can help us understand what makes democracies strong and able to resist.&lt;br /&gt; 
+     </description>
+        <Photographer>REUTERS/Viacheslav Ratynskyi</Photographer>
+        <pubDate>Sun, 26 Feb 2023 19:38:59 GMT</pubDate>
+        <itemID>732803</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By SETH J. FRANTZMAN</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Russia,ukraine,crimea,Volodymyr Zelensky,Ukraine crisis,Ukraine-Russia War</Tags>
+        <CategoryID>13</CategoryID>
+        <SocialTitle>Lessons of one year of war in Ukraine - analysis</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Putin: Russia can&#x27;t ignore NATO&#x27;s nukes, West wants to liquidate Moscow</title>
+    <link>https://www.jpost.com/international/article-732751</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528278&#x27; /&gt;&lt;br /&gt;Putin expressed that he believes NATO would use nuclear weapons to defeat Russian armed forces.&lt;br /&gt; 
+     </description>
+        <Photographer>SPUTNIK/MIKHAIL METZEL/POOL VIA REUTERS</Photographer>
+        <pubDate>Sun, 26 Feb 2023 07:51:21 GMT</pubDate>
+        <itemID>732751</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -313,22 +358,88 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By REUTERS</Author>
         <Sponsored>False</Sponsored>
-        <Tags>United States,Russia,China,ukraine,Antony Blinken,Ukraine crisis,Ukraine-Russia War</Tags>
+        <Tags>Russia,Vladimir Putin,NATO,Ukraine-Russia Headline,Ukraine-Russia War</Tags>
         <CategoryID>13</CategoryID>
-        <SocialTitle>West reacts with skepticism to Chinese ceasefire proposal for Ukraine</SocialTitle>
+        <SocialTitle>Putin: Russia can&#x27;t ignore NATO&#x27;s nukes, West wants to liquidate Moscow</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Populism must not affect the Bank of Israel - editorial</title>
-    <link>https://www.jpost.com/opinion/article-732595</link>
+    <title>German city cancels Roger Waters concert, call him &#x27;one of the biggest antisemites&#x27;</title>
+    <link>https://www.jpost.com/j-spot/article-732677</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/493478&#x27; /&gt;&lt;br /&gt;Once one taboo is broken &#x2013; that of judicial reforms &#x2013; it is possible that other taboos will also be harmed, such as the integrity and independence of Israel&#x2019;s central bank.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/515662&#x27; /&gt;&lt;br /&gt;The municipality&#x27;s city council received permission from a judge to cancel Waters&#x27;s appearance.&lt;br /&gt; 
      </description>
-        <Photographer>RONEN ZVULUN/REUTERS</Photographer>
-        <pubDate>Thu, 23 Feb 2023 20:49:55 GMT</pubDate>
-            <UpdateDate>Fri, 24 Feb 2023 11:04:07 GMT</UpdateDate>
-        <itemID>732595</itemID>
+        <Photographer>REUTERS/LEAH MILLIS</Photographer>
+        <pubDate>Sat, 25 Feb 2023 03:31:35 GMT</pubDate>
+        <itemID>732677</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By WALLA! CULTURE</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>germany,bds,roger waters,antisemitism</Tags>
+        <CategoryID>89</CategoryID>
+        <SocialTitle>German city cancels Roger Waters concert, call him an antisemite</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Is Chabad attempting a &#x27;hostile takeover&#x27; of Hungarian Orthodox Jewry?</title>
+    <link>https://www.jpost.com/diaspora/article-732769</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/521573&#x27; /&gt;&lt;br /&gt;The Jewish communities of Hungary own real estate that is in a prime central location in Budapest, which is worth huge amounts of money.&#xA0;&lt;br /&gt; 
+     </description>
+        <Photographer>Osv&#xE1;tA/Hungarian Wikipedia</Photographer>
+        <pubDate>Sun, 26 Feb 2023 13:22:22 GMT</pubDate>
+        <itemID>732769</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By ZVIKA KLEIN</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Chabad,hungary,europe,diaspora jews,hungarian jews,european jews</Tags>
+        <CategoryID>71</CategoryID>
+        <SocialTitle>Is Chabad attempting a &#x27;hostile takeover&#x27; of Hungarian Orthodox Jewry?</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Belarusian partisans say Russian military aircraft damaged near Minsk</title>
+    <link>https://www.jpost.com/international/article-732814</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/498896&#x27; /&gt;&lt;br /&gt;Front and central parts of the aircraft as well as the radar antenna were damaged as a result of two explosions in the attack at the Machulishchy air base near Minsk&lt;br /&gt; 
+     </description>
+        <Photographer>Press service of the Joint Forces Operation/Handout via REUTERS</Photographer>
+        <pubDate>Mon, 27 Feb 2023 03:27:55 GMT</pubDate>
+        <itemID>732814</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By REUTERS</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Russia,ukraine,belarus,Ukraine-Russia War</Tags>
+        <CategoryID>13</CategoryID>
+        <SocialTitle>Belarusian partisans say Russian military aircraft damaged near Minsk</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Keep the National Library of Israel out of the Education Ministry - editorial</title>
+    <link>https://www.jpost.com/opinion/article-732800</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/516738&#x27; /&gt;&lt;br /&gt;We remain the People of the Book and the National Library should remain as a treasure trove for all.&lt;br /&gt; 
+     </description>
+        <Photographer>NLI</Photographer>
+        <pubDate>Sun, 26 Feb 2023 23:07:51 GMT</pubDate>
+            <UpdateDate>Sun, 26 Feb 2023 23:07:51 GMT</UpdateDate>
+        <itemID>732800</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -336,167 +447,9 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By JPOST EDITORIAL</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Bank of Israel,economy,economy of israel,economics,Amir Yaron</Tags>
+        <Tags>education,education ministry,Yoav Kisch,National Library of Israel</Tags>
         <CategoryID>5</CategoryID>
-        <SocialTitle>Populism must not affect the Bank of Israel - editorial</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Friendliness between opposing MKs is a sin to Israeli public - opinion</title>
-    <link>https://www.jpost.com/opinion/article-732581</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528190&#x27; /&gt;&lt;br /&gt;At the end of the day, even MKs who argue with one another and accuse one another of destroying democracy, are human beings. &lt;br /&gt; 
-     </description>
-        <Photographer>YONATAN SINDEL/FLASH90</Photographer>
-        <pubDate>Thu, 23 Feb 2023 19:46:03 GMT</pubDate>
-            <UpdateDate>Fri, 24 Feb 2023 08:44:53 GMT</UpdateDate>
-        <itemID>732581</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By YAAKOV KATZ</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Benjamin Netanyahu,israeli knesset,israeli politics,democracy</Tags>
-        <CategoryID>5</CategoryID>
-        <SocialTitle>Friendliness between opposing MKs is a sin to Israeli public - opinion</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Ariel Sharon: The complex legacy of Israel&#x2019;s warrior-statesman</title>
-    <link>https://www.jpost.com/opinion/article-732555</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528167&#x27; /&gt;&lt;br /&gt;Sharon&#x2019;s initial reputation was not entirely undeserved, although few doubted his generalship.&lt;br /&gt; 
-     </description>
-        <Photographer>REUTERS/Chip East</Photographer>
-        <pubDate>Thu, 23 Feb 2023 19:55:18 GMT</pubDate>
-            <UpdateDate>Thu, 23 Feb 2023 19:55:18 GMT</UpdateDate>
-        <itemID>732555</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By MARK REGEV</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Israel,ariel sharon,Six Day War,Middle East</Tags>
-        <CategoryID>5</CategoryID>
-        <SocialTitle>Ariel Sharon: The complex legacy of Israel&#x2019;s warrior-statesman</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Israel&#x2019;s Declaration of Independence is being used as a protest prop - opinion</title>
-    <link>https://www.jpost.com/opinion/article-732582</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/521718&#x27; /&gt;&lt;br /&gt;What got lost in translation is that most of the Israelis swayed by the fear-mongering of the protest leaders have no clue about the history of their own judicial system.&lt;br /&gt; 
-     </description>
-        <Photographer>ILAN SAPIRA</Photographer>
-        <pubDate>Thu, 23 Feb 2023 19:46:37 GMT</pubDate>
-            <UpdateDate>Thu, 23 Feb 2023 19:46:37 GMT</UpdateDate>
-        <itemID>732582</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By RUTHIE BLUM</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>protests,israeli politics,independence,Judicial Reform</Tags>
-        <CategoryID>5</CategoryID>
-        <SocialTitle>Israel&#x2019;s Declaration of Independence is being used as a protest prop</SocialTitle>
-</item>
-                
-
-<item>
-    <title>My Word: Mobilizing tanks in a battle of wills</title>
-    <link>https://www.jpost.com/opinion/article-732593</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528199&#x27; /&gt;&lt;br /&gt;Justice Minister Yariv Levin, who is forging ahead with the judicial overhaul despite demonstrations, entreaties and threats, has been accused of many things.&lt;br /&gt; 
-     </description>
-        <Photographer>MICHAEL GILADI/FLASH90</Photographer>
-        <pubDate>Thu, 23 Feb 2023 20:45:06 GMT</pubDate>
-            <UpdateDate>Thu, 23 Feb 2023 20:45:06 GMT</UpdateDate>
-        <itemID>732593</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By LIAT COLLINS</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Knesset,israeli politics,peres,democracy</Tags>
-        <CategoryID>5</CategoryID>
-        <SocialTitle>My Word: Mobilizing tanks in a battle of wills</SocialTitle>
-</item>
-                
-
-<item>
-    <title>&#x2018;Cocaine Bear&#x2019; star Alden Ehrenreich got big break after Spielberg saw him at a bat mitzah</title>
-    <link>https://www.jpost.com/j-spot/article-732679</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528045&#x27; /&gt;&lt;br /&gt;Ehrenreich, now 33, made a scrappy home movie that he and other friends showed at the bat mitzvah ceremony in 2009.&lt;br /&gt; 
-     </description>
-        <Photographer>Fabrizio Bensch/Reuters</Photographer>
-        <pubDate>Sat, 25 Feb 2023 03:40:10 GMT</pubDate>
-        <itemID>732679</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By GABE FRIEDMAN/JTA</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>bat mitzva,film,Steven Spielberg,Cocaine</Tags>
-        <CategoryID>89</CategoryID>
-        <SocialTitle>&#x2018;Cocaine Bear&#x2019; star Ehrenreich got big break after Spielberg met him</SocialTitle>
-</item>
-                
-
-<item>
-    <title>&#x2018;Delegation,&#x2019; an Israeli drama about high school trips to Auschwitz, premieres in Berlin</title>
-    <link>https://www.jpost.com/j-spot/article-732575</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528186&#x27; /&gt;&lt;br /&gt;Israeli high schoolers are known to party hard on these school-sponsored and supervised visits to Poland to visit Holocaust memorial sites.&lt;br /&gt; 
-     </description>
-        <Photographer>NATALIA LACZYNSKA</Photographer>
-        <pubDate>Fri, 24 Feb 2023 22:02:00 GMT</pubDate>
-        <itemID>732575</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By HANNAH BROWN</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>auschwitz,Holocaust,berlin,film</Tags>
-        <CategoryID>89</CategoryID>
-        <SocialTitle>Israeli drama about high school trips to Auschwitz premieres in Berlin</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Michael Levin Base: The &#x27;home&#x27; of Israel&#x27;s b&#x27;not sherut, lone soldiers moves</title>
-    <link>https://www.jpost.com/israel-news/article-732485</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528078&#x27; /&gt;&lt;br /&gt;Moving overseas to serve in Israel can be scary and difficult. But the Michael Levin Base has become a true home away from home.&lt;br /&gt; 
-     </description>
-        <Photographer>SHARON ALTSHUL</Photographer>
-        <pubDate>Fri, 24 Feb 2023 22:00:03 GMT</pubDate>
-        <itemID>732485</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By NOA ROSEN</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>aliyah,IDF,lone soldier,national service israel,volunteering,immigration</Tags>
-        <CategoryID>69</CategoryID>
-        <SocialTitle>Michael Levin Base: Home of Israel&#x27;s b&#x27;not sherut, lone soldiers moves</SocialTitle>
+        <SocialTitle>Keep the National Library of Israel out of the Education Ministry</SocialTitle>
 </item>
                 
 
@@ -508,6 +461,7 @@
      </description>
         <Photographer>KEELEY NEWMAN</Photographer>
         <pubDate>Fri, 24 Feb 2023 22:01:30 GMT</pubDate>
+            <UpdateDate>Fri, 24 Feb 2023 22:01:30 GMT</UpdateDate>
         <itemID>732587</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
@@ -523,170 +477,217 @@
                 
 
 <item>
-    <title>Zelensky says Israel should back Ukraine, not take mediator position - report</title>
-    <link>https://www.jpost.com/international/article-732674</link>
+    <title>Israel in the midst of days of angst and awe - opinion</title>
+    <link>https://www.jpost.com/opinion/article-732516</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/522729&#x27; /&gt;&lt;br /&gt;Zelensky made these statements at a Friday press conference, which marked exactly one year since the start of the Russian invasion of Ukraine.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528135&#x27; /&gt;&lt;br /&gt;Eventually the Almighty will turn His face toward us and grant us peace to live and let live &#x2013; all of us, regardless of our religiosity or sexual proclivities.&lt;br /&gt; 
      </description>
-        <Photographer>Viacheslav Ratynskyi/Reuters</Photographer>
-        <pubDate>Sat, 25 Feb 2023 02:43:49 GMT</pubDate>
-        <itemID>732674</itemID>
+        <Photographer>ERIK MARMOR/FLASH90</Photographer>
+        <pubDate>Sat, 25 Feb 2023 07:53:04 GMT</pubDate>
+            <UpdateDate>Sat, 25 Feb 2023 07:53:04 GMT</UpdateDate>
+        <itemID>732516</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
+        <Author>By PAMELA PELED</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Ukraine Israel relations,Volodymyr Zelensky,Ukraine-Russia War,MK Eli Cohen</Tags>
-        <CategoryID>13</CategoryID>
-        <SocialTitle>Zelensky says Israel should back Ukraine, not take mediator position</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Should non-Israeli Jews influence Israeli politics?</title>
-    <link>https://www.jpost.com/judaism/article-732502</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528113&#x27; /&gt;&lt;br /&gt;We aren&#x2019;t a pure-blooded democracy but a historical project built upon democratic foundations. Every Jew is expected to participate in this project and voice their opinions.&lt;br /&gt; 
-     </description>
-        <Photographer>NATI SHOHAT/FLASH90</Photographer>
-        <pubDate>Fri, 24 Feb 2023 23:03:53 GMT</pubDate>
-        <itemID>732502</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By MOSHE TARAGIN</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Judaism,diaspora jews,israeli politics,philanthropy</Tags>
-        <CategoryID>111</CategoryID>
-        <SocialTitle>Should non-Israeli Jews influence Israeli politics?</SocialTitle>
-</item>
-                
-
-<item>
-    <title>The IDF&#x27;s mixed-gender unit that took down a Jericho terror cell - interview</title>
-    <link>https://www.jpost.com/arab-israeli-conflict/article-732419</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528000&#x27; /&gt;&lt;br /&gt;IDF soldiers told The Jerusalem Post of how they accidentally stumbled on the terror cell, took fire and survived the face-to-face gunfight from just centimeters away.&lt;br /&gt; 
-     </description>
-        <Photographer>IDF SPOKESPERSON&#x27;S UNIT</Photographer>
-        <pubDate>Wed, 22 Feb 2023 17:37:15 GMT</pubDate>
-        <itemID>732419</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By YONAH JEREMY BOB</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Israel,IDF,West Bank,IDF Soldiers,Middle East,Palestinian terrorism</Tags>
-        <CategoryID>70</CategoryID>
-        <SocialTitle>The IDF&#x27;s mixed-gender unit that took down a Jericho terrorist cell</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Israel&#x27;s budget committee approves state budget, cuts it close</title>
-    <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-732643</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528232&#x27; /&gt;&lt;br /&gt;After lengthy discussions that ended hours before Shabbat, the government approved the budget for next year.&lt;br /&gt; 
-     </description>
-        <Photographer>ALEX KOLOMOISKY/FLASH90</Photographer>
-        <pubDate>Fri, 24 Feb 2023 11:54:13 GMT</pubDate>
-        <itemID>732643</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Benjamin Netanyahu,economy of israel,Israeli Government Budget,Haim Katz,Bezalel Smotrich,Otzma Yehudit</Tags>
-        <CategoryID>69</CategoryID>
-            <SubCategoryID>128</SubCategoryID>
-        <SocialTitle>Israel&#x27;s budget committee approves state budget, cuts it close</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Arye Deri was personally involved in budget negotiations, Health Ministry says</title>
-    <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-732649</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/526707&#x27; /&gt;&lt;br /&gt;Health Ministry director-general Moshe Bar Siman Tov lauded Deri in a statement released shortly after the budget passed a government vote.&lt;br /&gt; 
-     </description>
-        <Photographer>MARC ISRAEL SELLEM/THE JERUSALEM POST</Photographer>
-        <pubDate>Fri, 24 Feb 2023 15:30:15 GMT</pubDate>
-        <itemID>732649</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Israel,aryeh deri,Budget,Politics,Israeli Government Budget,Health Ministry,Moshe Bar Siman Tov</Tags>
-        <CategoryID>69</CategoryID>
-            <SubCategoryID>128</SubCategoryID>
-        <SocialTitle>Arye Deri personally involved in budget negotiations - Health Ministry</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Chinese weather balloon maker denies connection to downed spy balloon</title>
-    <link>https://www.jpost.com/international/article-732680</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/527542&#x27; /&gt;&lt;br /&gt;The manufacture of weather balloons in China is dominated by Zhuzhou Rubber, which makes 75% of high-altitude balloons used by the China Meteorological Administration.&lt;br /&gt; 
-     </description>
-        <Photographer>US Fleet Forces/US Navy/handout via Reuters</Photographer>
-        <pubDate>Sat, 25 Feb 2023 03:43:47 GMT</pubDate>
-        <itemID>732680</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By REUTERS</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>United States,China,Spy,US-China relations,Spy Balloons</Tags>
-        <CategoryID>13</CategoryID>
-        <SocialTitle>Chinese weather balloon maker denies connection to downed spy balloon</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Cruelest price of the war is people stopped seeing the faces of Ukrainians in turmoil</title>
-    <link>https://www.jpost.com/opinion/article-732571</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528180&#x27; /&gt;&lt;br /&gt;The moving faces and powerful stories have been missing from mainstream media, being mostly replaced with the financial costs of the war and updated info on new weaponry and tanks.&lt;br /&gt; 
-     </description>
-        <Photographer>SVETLANA VOIT</Photographer>
-        <pubDate>Fri, 24 Feb 2023 16:55:07 GMT</pubDate>
-        <itemID>732571</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By YAEL ECKSTEIN</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>media,War,IFCJ,Ukraine-Russia War</Tags>
+        <Tags>IDF,protests,PTSD,Bezalel Smotrich,democracy,Ben-Gvir,Judicial Reform</Tags>
         <CategoryID>5</CategoryID>
-        <SocialTitle>Cruelest price of war in Ukraine is people ignoring the faces of the war</SocialTitle>
+        <SocialTitle>Israel in the midst of days of angst and awe - opinion</SocialTitle>
 </item>
                 
 
 <item>
-    <title>One year of war: Almost 300,000 estimated to be dead in Ukraine, Russia</title>
-    <link>https://www.jpost.com/international/article-732548</link>
+    <title>Lapid&#x27;s campaign to return as PM shouldn&#x27;t prevent current gov&#x27;t from functioning</title>
+    <link>https://www.jpost.com/opinion/article-732559</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/527966&#x27; /&gt;&lt;br /&gt;Military losses are disputed, but it is widely agreed that the death toll has been monumental.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528169&#x27; /&gt;&lt;br /&gt;We are at the point where those who support and those who oppose the reform are prepared to dialogue as they know the key points worthy of discussion.&lt;br /&gt; 
      </description>
-        <Photographer>REUTERS/Vitalii Hnidyi</Photographer>
-        <pubDate>Thu, 23 Feb 2023 15:42:13 GMT</pubDate>
-        <itemID>732548</itemID>
+        <Photographer>Arie Leib Abrams/Flash90</Photographer>
+        <pubDate>Sat, 25 Feb 2023 07:53:12 GMT</pubDate>
+            <UpdateDate>Sat, 25 Feb 2023 07:53:12 GMT</UpdateDate>
+        <itemID>732559</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By ODED REVIVI</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Knesset,Yair Lapid,israeli politics,Opposition</Tags>
+        <CategoryID>5</CategoryID>
+        <SocialTitle>Lapid&#x27;s campaign to return as PM shouldn&#x27;t disrupt current gov&#x27;t</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Is Israel&#x27;s judicial crisis part of the Trumpist epoch?</title>
+    <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-732580</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528191&#x27; /&gt;&lt;br /&gt;MIDDLE ISRAEL: The lying that accompanies the Levin Plan is part of the global war on truth.&#xD;&#xA;&lt;br /&gt; 
+     </description>
+        <Photographer>GILI YAARI/FLASH90</Photographer>
+        <pubDate>Fri, 24 Feb 2023 08:53:28 GMT</pubDate>
+            <UpdateDate>Fri, 24 Feb 2023 08:53:28 GMT</UpdateDate>
+        <itemID>732580</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By AMOTZ ASA-EL</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Knesset,high court of justice,israeli knesset,Yariv Levin,Judicial Reform</Tags>
+        <CategoryID>69</CategoryID>
+            <SubCategoryID>128</SubCategoryID>
+        <SocialTitle>Is Israel&#x27;s judicial crisis part of the Trumpist epoch?</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Israel&#x27;s coalition needs to compromise unilaterally - analysis</title>
+    <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-732787</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528308&#x27; /&gt;&lt;br /&gt;Call it a form of back-channel negotiations, &#xE0; la the Oslo process, but this time not aiming for peace between Israel and the Palestinians, but rather peace among the Israelis themselves.&#xA0;&lt;br /&gt; 
+     </description>
+        <Photographer>YONATAN SINDEL/FLASH90</Photographer>
+        <pubDate>Sun, 26 Feb 2023 16:32:28 GMT</pubDate>
+        <itemID>732787</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By HERB KEINON</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Benjamin Netanyahu,israeli politics,coalition,Opposition,Judicial system,Judiciary ,Judicial Reform</Tags>
+        <CategoryID>69</CategoryID>
+            <SubCategoryID>128</SubCategoryID>
+        <SocialTitle>Israel&#x27;s coalition needs to compromise unilaterally - analysis</SocialTitle>
+</item>
+                
+
+<item>
+    <title>WATCH: Israeli fox hunts tiny shrew in rare footage</title>
+    <link>https://www.jpost.com/israel-news/article-732782</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528305&#x27; /&gt;&lt;br /&gt;Footage obtained by the Society for the Protection of Nature in Israel shows a likely pregnant fox hunting a small shrew in this battle of the predators. &lt;br /&gt; 
+     </description>
+        <Photographer>AMIR BALABAN/SOCIETY FOR THE PROTECTION OF NATURE IN ISRAEL</Photographer>
+        <pubDate>Sun, 26 Feb 2023 20:23:55 GMT</pubDate>
+        <itemID>732782</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>nature,hunting in israel,pregnant,animals,fox</Tags>
+        <CategoryID>69</CategoryID>
+        <SocialTitle>WATCH: Israeli fox hunts tiny shrew in rare footage</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Progressives, liberals alike perpetuate evil with moral ambivalence - opinion</title>
+    <link>https://www.jpost.com/opinion/article-732794</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528313&#x27; /&gt;&lt;br /&gt;See no evil: In what universe is there a moral equivalency between ramming a vehicle into people standing at a bus stop and a young person losing his life in a crossfire with terrorists?&lt;br /&gt; 
+     </description>
+        <Photographer>YONATAN SINDEL/FLASH90</Photographer>
+        <pubDate>Sun, 26 Feb 2023 22:09:07 GMT</pubDate>
+        <itemID>732794</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By ARDIE GELDMAN</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Terrorism,murder,efrat settlement,liberal,Car ramming,Left-wing</Tags>
+        <CategoryID>5</CategoryID>
+        <SocialTitle>Progressives, liberals alike perpetuate evil with moral ambivalence</SocialTitle>
+</item>
+                
+
+<item>
+    <title>How did this man get rich by collecting coins?</title>
+    <link>https://www.jpost.com/omg/article-732813</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/505173&#x27; /&gt;&lt;br /&gt;A man in India collected over 1,200 coins in 45 years - and sold his collection for a quarter of a million dollars.&lt;br /&gt; 
+     </description>
+        <Photographer>YOLI SCHWARTZ/IAA</Photographer>
+        <pubDate>Mon, 27 Feb 2023 03:13:24 GMT</pubDate>
+        <itemID>732813</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By MAARIV ONLINE</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>india,crusader coins,antiquities,auction</Tags>
+        <CategoryID>99</CategoryID>
+        <SocialTitle>How did this man get rich by collecting coins?</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Israeli teachers&#x27; strikes are harming our children - opinion</title>
+    <link>https://www.jpost.com/opinion/article-732798</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528316&#x27; /&gt;&lt;br /&gt;Israeli leaders from across the spectrum should be reminded that we are causing our children untold harm by keeping them from attending classes.&lt;br /&gt; 
+     </description>
+        <Photographer>AVSHALOM SASSONI/FLASH90</Photographer>
+        <pubDate>Sun, 26 Feb 2023 23:00:24 GMT</pubDate>
+        <itemID>732798</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By DAVID KLAHR</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>education,children,strike,teaching in israel</Tags>
+        <CategoryID>5</CategoryID>
+        <SocialTitle>Israeli teachers&#x27; strikes are harming our children - opinion</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Border Police stop potato theft in Negev operation</title>
+    <link>https://www.jpost.com/israel-news/article-732807</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528319&#x27; /&gt;&lt;br /&gt;Border Police forces caught eight thieves in the act of loading the stolen produce into vehicles.&lt;br /&gt; 
+     </description>
+        <Photographer>ISRAEL POLICE SPOKESPERSON&#x27;S UNIT</Photographer>
+        <pubDate>Mon, 27 Feb 2023 00:41:50 GMT</pubDate>
+        <itemID>732807</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Border Police,Negev,agriculture,arrest,bedouin</Tags>
+        <CategoryID>69</CategoryID>
+        <SocialTitle>Border Police stop potato theft in Negev operation</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Rothman amends Override Law, eases High Court restrictions</title>
+    <link>https://www.jpost.com/breaking-news/article-732760</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/525166&#x27; /&gt;&lt;br /&gt;The bill, part of Justice Minister Yariv Levin&#x27;s judicial reform, will be brought to a vote in the Knesset committee this week.&lt;br /&gt; 
+     </description>
+        <Photographer>OLIVIER FITOUSSI/FLASH90</Photographer>
+        <pubDate>Sun, 26 Feb 2023 11:06:01 GMT</pubDate>
+        <itemID>732760</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -694,53 +695,164 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By MICHAEL STARR</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Russia,ukraine,War,Ukraine crisis,Ukraine-Russia War</Tags>
-        <CategoryID>13</CategoryID>
-        <SocialTitle>One year of war: Almost 300,000 estimated to be dead in Ukraine, Russia</SocialTitle>
+        <Tags>Israel,Knesset,high court of justice,israeli politics,Yariv Levin,Override clause,Judicial Reform,Simcha Rothman</Tags>
+        <CategoryID>69</CategoryID>
+        <SocialTitle>Rothman amends Override Law, eases High Court restrictions</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Moscow is not alone: Much has changed since invasion of Ukraine</title>
-    <link>https://www.jpost.com/international/article-732579</link>
+    <title>Keep the National Library of Israel out of the Education Ministry - editorial</title>
+    <link>https://www.jpost.com/opinion/article-732800</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528187&#x27; /&gt;&lt;br /&gt;BEHIND THE LINES:  Russia&#x2019;s invasion of Ukraine a year ago marked the birth of a new era in global strategic affairs.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/516738&#x27; /&gt;&lt;br /&gt;We remain the People of the Book and the National Library should remain as a treasure trove for all.&lt;br /&gt; 
      </description>
-        <Photographer>JONATHAN SPYER</Photographer>
-        <pubDate>Fri, 24 Feb 2023 16:54:58 GMT</pubDate>
-        <itemID>732579</itemID>
+        <Photographer>NLI</Photographer>
+        <pubDate>Sun, 26 Feb 2023 23:07:51 GMT</pubDate>
+        <itemID>732800</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By JONATHAN SPYER</Author>
+        <Author>By JPOST EDITORIAL</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Iran,Russia,ukraine,Vladimir Putin,russia iran,moscow,Kyiv,Volodymyr Zelensky,Ukraine crisis,Ukraine-Russia War</Tags>
-        <CategoryID>13</CategoryID>
-        <SocialTitle>Moscow is not alone: Much has changed since invasion of Ukraine </SocialTitle>
+        <Tags>education,education ministry,Yoav Kisch,National Library of Israel</Tags>
+        <CategoryID>5</CategoryID>
+        <SocialTitle>Keep the National Library of Israel out of the Education Ministry</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Russia must withdraw from Ukraine, 147 UNGA members say, including Israel</title>
-    <link>https://www.jpost.com/international/article-732598</link>
+    <title>Hundreds of women inspired by &#x27;Handmaid&#x27;s tale&#x27; march, protest across Israel</title>
+    <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-732812</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/525170&#x27; /&gt;&lt;br /&gt;The UNGA called on Russia to &#x201C;immediately, completely and unconditionally withdraw all of its military forces from the territory of Ukraine.&#x201D;&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528274&#x27; /&gt;&lt;br /&gt;Inspired by the famous book, women across Israel dressed up in red dresses and white bonnets during protests.&lt;br /&gt; 
      </description>
-        <Photographer>ARIE LEIB ABRAMS/FLASH 90</Photographer>
-        <pubDate>Thu, 23 Feb 2023 21:29:48 GMT</pubDate>
-        <itemID>732598</itemID>
+        <Photographer>TOMER NEUBERG/FLASH90</Photographer>
+        <pubDate>Mon, 27 Feb 2023 02:39:34 GMT</pubDate>
+        <itemID>732812</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By TOVAH LAZAROFF</Author>
+        <Author>By JERUSALEM POST STAFF</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Russia,Israel Russia,United Nations General Assembly,Ukraine-Russia War</Tags>
+        <Tags>protests,tel aviv protest,dizengoff center,Judicial Reform</Tags>
+        <CategoryID>69</CategoryID>
+            <SubCategoryID>128</SubCategoryID>
+        <SocialTitle>Hundreds of women inspired by &#x27;Handmaid&#x27;s tale&#x27; march, protest </SocialTitle>
+</item>
+                
+
+<item>
+    <title>Has Russia depleted its stock of Iranian suicide drones? - UK intel</title>
+    <link>https://www.jpost.com/international/article-732758</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/517084&#x27; /&gt;&lt;br /&gt;The UK Defense Ministry said that the Ukrainian military had reportedly shot down at least 24 Iranian Shahed-136s between late January and mid-February.&lt;br /&gt; 
+     </description>
+        <Photographer>IRANIAN ARMY/WANA (WEST ASIA NEWS AGENCY)/HANDOUT VIA REUTERS</Photographer>
+        <pubDate>Sun, 26 Feb 2023 10:18:15 GMT</pubDate>
+        <itemID>732758</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By MICHAEL STARR</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Iran,Russia,russia and iran,russia iran,drone attack,drone,Ukraine-Russia Headline,Ukraine-Russia War</Tags>
         <CategoryID>13</CategoryID>
-        <SocialTitle>Russia must withdraw from Ukraine, 147 UNGA members say, including IL</SocialTitle>
+        <SocialTitle>Has Russia depleted its stock of Iranian suicide drones? - UK intel</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Migrant shipwreck in Italy kills at least 59, including 12 children</title>
+    <link>https://www.jpost.com/international/article-732809</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/520321&#x27; /&gt;&lt;br /&gt;The vessel was carrying people from Afghanistan, Iran and several other countries when it crashed near the Italian coast.&lt;br /&gt; 
+     </description>
+        <Photographer>REUTERS/Hani Amara</Photographer>
+        <pubDate>Mon, 27 Feb 2023 01:01:38 GMT</pubDate>
+        <itemID>732809</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By REUTERS</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Iran,migrants,refugees,italy,afghanistan,migrants in europe</Tags>
+        <CategoryID>13</CategoryID>
+        <SocialTitle>Migrant shipwreck in Italy kills at least 59, including 12 children</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Russia&#x27;s Vladimir Putin will be killed by rivals, Zelensky believes - report</title>
+    <link>https://www.jpost.com/international/article-732735</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/519374&#x27; /&gt;&lt;br /&gt;As Russia is hit by increasingly stringent sanctions for invading Ukraine last February, Putin&#x27;s political rivals will seek to depose him, Zelensky said.&lt;br /&gt; 
+     </description>
+        <Photographer>Ukrainian Presidential Press Service/Handout via REUTERS</Photographer>
+        <pubDate>Sun, 26 Feb 2023 00:36:04 GMT</pubDate>
+        <itemID>732735</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Russia,ukraine,Vladimir Putin,Volodymyr Zelensky,Ukraine crisis,Ukraine-Russia War</Tags>
+        <CategoryID>13</CategoryID>
+        <SocialTitle>Russia&#x27;s Vladimir Putin will be killed by rivals, Zelensky believes</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Russia&#x27;s Medvedev says arms supplies to Kyiv threaten global nuclear catastrophe</title>
+    <link>https://www.jpost.com/international/article-732810</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/506749&#x27; /&gt;&lt;br /&gt;Medvedev has said that the negotiations are prevented by the West providing support to Ukraine&lt;br /&gt; 
+     </description>
+        <Photographer>SPUTNIK/YULIA ZYRYANOVA/POOL VIA REUTERS</Photographer>
+        <pubDate>Mon, 27 Feb 2023 01:43:41 GMT</pubDate>
+        <itemID>732810</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By REUTERS</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Nuclear,dmitry medvedev,NATO,Ukraine-Russia War</Tags>
+        <CategoryID>13</CategoryID>
+        <SocialTitle>Medvedev says arms supplies to Kyiv threatens nuclear catastrophe</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Belarusian partisans say Russian military aircraft damaged near Minsk</title>
+    <link>https://www.jpost.com/international/article-732814</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/498896&#x27; /&gt;&lt;br /&gt;Front and central parts of the aircraft as well as the radar antenna were damaged as a result of two explosions in the attack at the Machulishchy air base near Minsk&lt;br /&gt; 
+     </description>
+        <Photographer>Press service of the Joint Forces Operation/Handout via REUTERS</Photographer>
+        <pubDate>Mon, 27 Feb 2023 03:27:55 GMT</pubDate>
+        <itemID>732814</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By REUTERS</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Russia,ukraine,belarus,Ukraine-Russia War</Tags>
+        <CategoryID>13</CategoryID>
+        <SocialTitle>Belarusian partisans say Russian military aircraft damaged near Minsk</SocialTitle>
 </item>
                 
 
@@ -834,93 +946,47 @@
                 
 
 <item>
-    <title>Frankfurt cancels Roger Waters apperance for being &#x27;one of the biggest antisemites&#x27;</title>
-    <link>https://www.jpost.com/j-spot/article-732677</link>
+    <title>No stage for Roger Waters in Germany  - opinion</title>
+    <link>https://www.jpost.com/opinion/article-732557</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/515662&#x27; /&gt;&lt;br /&gt;The municipality&#x27;s city council received permission from a judge to cancel Waters&#x27;s appearance.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528168&#x27; /&gt;&lt;br /&gt;Freedom of expression is a great privilege, but without any doubt, this fundamental right does have limits. But when it comes to Rogers Waters, words are not enough &#x2013; action is needed.&#xA0;&lt;br /&gt; 
      </description>
-        <Photographer>REUTERS/LEAH MILLIS</Photographer>
-        <pubDate>Sat, 25 Feb 2023 03:31:35 GMT</pubDate>
-        <itemID>732677</itemID>
+        <Photographer>REUTERS/MARIO ANZUONI</Photographer>
+        <pubDate>Thu, 23 Feb 2023 17:16:42 GMT</pubDate>
+        <itemID>732557</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By WALLA! CULTURE</Author>
+        <Author>By Sacha Stawski </Author>
         <Sponsored>False</Sponsored>
-        <Tags>germany,bds,roger waters,antisemitism</Tags>
-        <CategoryID>89</CategoryID>
-        <SocialTitle>Frankfurt cancels Roger Waters apperance</SocialTitle>
+        <Tags>germany,roger waters,pink floyd founders,antisemitism</Tags>
+        <CategoryID>5</CategoryID>
+        <SocialTitle>No stage for Roger Waters in Germany  - opinion</SocialTitle>
 </item>
                 
 
 <item>
-    <title>California High School teacher, who taught antisemitic conspiracy in class, placed on leave</title>
-    <link>https://www.jpost.com/diaspora/antisemitism/article-732667</link>
+    <title>Shabbat passes peacefully despite &#x27;Day of Hate&#x27;</title>
+    <link>https://www.jpost.com/diaspora/antisemitism/article-732742</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/509396&#x27; /&gt;&lt;br /&gt;It is alleged that complaints were made for two months before action was taken.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/480553&#x27; /&gt;&lt;br /&gt;Regardless of whether the warning is credible, Jewish groups have encouraged communities to counter hate with positivity on February 25.&#xA0;&lt;br /&gt; 
      </description>
-        <Photographer>REUTERS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 23:51:29 GMT</pubDate>
-        <itemID>732667</itemID>
+        <Photographer>GO NAKAMURA/REUTERS</Photographer>
+        <pubDate>Sun, 26 Feb 2023 04:12:17 GMT</pubDate>
+        <itemID>732742</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
+        <Author>By HALEY COHEN</Author>
         <Sponsored>False</Sponsored>
-        <Tags>United States,black hebrews,California,antisemitism</Tags>
+        <Tags>American Jewry,Nazis,nazi,nazism,neo-nazi,Jewish Americans</Tags>
         <CategoryID>71</CategoryID>
             <SubCategoryID>969</SubCategoryID>
-        <SocialTitle>High school teacher who taught antisemitic conspiracy to class dismissed</SocialTitle>
-</item>
-                
-
-<item>
-    <title>&#x27;Stupid f***ing Jews&#x27;: Goyim Defense League harasses Florida&#x27;s Jewish community</title>
-    <link>https://www.jpost.com/diaspora/antisemitism/article-732553</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528197&#x27; /&gt;&lt;br /&gt;Videos posted on Twitter show members of the antisemitic organization approaching a car driven by an ultra-Orthodox Jewish man.&lt;br /&gt; 
-     </description>
-        <Photographer>REUTERS/MARCO BELLO</Photographer>
-        <pubDate>Thu, 23 Feb 2023 20:21:03 GMT</pubDate>
-        <itemID>732553</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Chabad,nazism,neo-nazi,Florida,antisemitism</Tags>
-        <CategoryID>71</CategoryID>
-            <SubCategoryID>969</SubCategoryID>
-        <SocialTitle> &#x27;Stupid f***ing Jews&#x27;: Goyim Defense League harasses Florida Jews</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Jewish communities warned ahead of antisemitic Day of Hate across the US</title>
-    <link>https://www.jpost.com/diaspora/antisemitism/article-732638</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/493322&#x27; /&gt;&lt;br /&gt;The New York Police Department (NYPD) as well as the Chicago Police Department sent out Situational Awareness Alerts on Thursday.&lt;br /&gt; 
-     </description>
-        <Photographer>REUTERS/EVELYN HOCKSTEIN</Photographer>
-        <pubDate>Fri, 24 Feb 2023 11:29:01 GMT</pubDate>
-        <itemID>732638</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By NOA ROSEN</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>new york,jewish,chicago,hate crime,new york city,antisemitism,Hate speech,Jewish Americans</Tags>
-        <CategoryID>71</CategoryID>
-            <SubCategoryID>969</SubCategoryID>
-        <SocialTitle>Jewish communities warned ahead of antisemitic Day of Hate across the US</SocialTitle>
+        <SocialTitle>Shabbat passes peacefully despite &#x27;Day of Hate&#x27;</SocialTitle>
 </item>
                 
 
@@ -948,6 +1014,74 @@
                 
 
 <item>
+    <title>NYC theaters exhale Jewish stories in reflection of growing antisemitism</title>
+    <link>https://www.jpost.com/diaspora/antisemitism/article-732701</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://www.jpost.com//HttpHandlers/ShowImage.ashx?id=384931&amp;w=898&amp;h=628&#x27; /&gt;&lt;br /&gt;New York City is the home of approximately 1.6 million Jews, making it the second-largest concentrated Jewish population in the world, and the first outside of the State of Israel.&lt;br /&gt; 
+     </description>
+        <Photographer>REUTERS/BRENDAN MCDERMID</Photographer>
+        <pubDate>Sat, 25 Feb 2023 23:12:15 GMT</pubDate>
+        <itemID>732701</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By  DAPHNE KLAJMAN</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>anti-defamation league,new york city,antisemitism,Broadway</Tags>
+        <CategoryID>71</CategoryID>
+            <SubCategoryID>969</SubCategoryID>
+        <SocialTitle>NYC theaters exhale Jewish stories in reflection of growing antisemitism</SocialTitle>
+</item>
+                
+
+<item>
+    <title>NY Senator accused of making fun of man&#x27;s &#x27;stereotypical Jewish looks&#x27;</title>
+    <link>https://www.jpost.com/diaspora/antisemitism/article-732707</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/525708&#x27; /&gt;&lt;br /&gt;Julia Salazar, a New York state Senator, is accused of mocking a Jewish man&#x27;s looks on twitter after he tweeted about her lack of focus on policy.&lt;br /&gt; 
+     </description>
+        <Photographer>Andrew Kelly/Reuters</Photographer>
+        <pubDate>Sat, 25 Feb 2023 16:28:29 GMT</pubDate>
+        <itemID>732707</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>new york,congress,antisemitism,socialism</Tags>
+        <CategoryID>71</CategoryID>
+            <SubCategoryID>969</SubCategoryID>
+        <SocialTitle>NY Senator accused of making fun of man&#x27;s &#x27;stereotypical Jewish looks&#x27;</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Israel Police announce emergency preparedness drill - &#x2018;Land in Upheaval&#x2019;</title>
+    <link>https://www.jpost.com/israel-news/article-732734</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/527677&#x27; /&gt;&lt;br /&gt;The Israel Police force aims to be prepared for the upcoming spring season, during which tensions may rise as residents celebrate various holidays.&lt;br /&gt; 
+     </description>
+        <Photographer>YONATAN SINDEL/FLASH90</Photographer>
+        <pubDate>Sun, 26 Feb 2023 00:36:16 GMT</pubDate>
+        <itemID>732734</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>Israel Police,police,Itamar Ben-Gvir,emergency,Kobi Shabtai</Tags>
+        <CategoryID>69</CategoryID>
+        <SocialTitle>Israel Police announce emergency preparedness drill - &#x2018;Land in Upheaval&#x2019;</SocialTitle>
+</item>
+                
+
+<item>
     <title>Iraq&#x27;s gas, oil deals with UAE and China mean more energy independence from Iran</title>
     <link>https://www.jpost.com/middle-east/iran-news/article-732613</link>
     <description>        
@@ -971,36 +1105,14 @@
                 
 
 <item>
-    <title>Israeli heatwaves are going to keep getting worse - study</title>
-    <link>https://www.jpost.com/environment-and-climate-change/article-732634</link>
+    <title>COVID-19 likely originated in Chinese lab leak, US Energy Dept. says - report</title>
+    <link>https://www.jpost.com/health-and-wellness/coronavirus/article-732779</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528220&#x27; /&gt;&lt;br /&gt;Global warming is going to keep causing extreme weather phenomena, leading to heatwave mortality to increase tenfold.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528303&#x27; /&gt;&lt;br /&gt;Claims that a lab leak in China led to the start of the COVID-19 pandemic have been circulating for years, but they remain a subject of considerable dispute.&lt;br /&gt; 
      </description>
-        <Photographer>FLICKR</Photographer>
-        <pubDate>Fri, 24 Feb 2023 09:39:21 GMT</pubDate>
-        <itemID>732634</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JUDY SIEGEL-ITZKOVICH</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>Israel,weather conditions in israel,global warming,death,Heatwave</Tags>
-        <CategoryID>144</CategoryID>
-        <SocialTitle>Israeli heatwaves are going to keep getting worse - study</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Researchers may have found path to natural cure for COVID-19 - study</title>
-    <link>https://www.jpost.com/health-and-wellness/coronavirus/article-732671</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/491576&#x27; /&gt;&lt;br /&gt;Researchers prepared human cell cultures and infected some of them with ACE2. In the cells treated with the amino acid, ACE2 was found to have not spread as much.&lt;br /&gt; 
-     </description>
-        <Photographer>OLIVIER FITOUSSI/FLASH90</Photographer>
-        <pubDate>Sat, 25 Feb 2023 01:53:16 GMT</pubDate>
-        <itemID>732671</itemID>
+        <Photographer>REUTERS/THOMAS PETER/FILE PHOTO</Photographer>
+        <pubDate>Sun, 26 Feb 2023 15:14:07 GMT</pubDate>
+        <itemID>732779</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -1008,22 +1120,44 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By JERUSALEM POST STAFF</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Coronavirus,COVID-19,Coronavirus Vaccine,covid</Tags>
+        <Tags>China,Coronavirus,Wuhan,COVID-19,Assuta Health,covid</Tags>
         <CategoryID>140</CategoryID>
             <SubCategoryID>1097</SubCategoryID>
-        <SocialTitle>Researchers may have found path to natural cure for COVID-19 - study</SocialTitle>
+        <SocialTitle>COVID-19 likely originated in Chinese lab, US Energy Dept. says - report</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Children&#x27;s success in school depends on screen time as babies</title>
-    <link>https://www.jpost.com/health-and-wellness/parenting/article-732632</link>
+    <title>Can fitness trackers do more harm than good for the heart? - study</title>
+    <link>https://www.jpost.com/health-and-wellness/article-732780</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528219&#x27; /&gt;&lt;br /&gt;We all want our kids to do well in school, but it&#x27;s not only connected to them listening to their teachers and learning the material. &lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528301&#x27; /&gt;&lt;br /&gt;Some wearable gadgets have the potential to interfere with pacemakers, other implanted cardiac devices.&lt;br /&gt; 
      </description>
-        <Photographer>PEXELS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 09:22:29 GMT</pubDate>
-        <itemID>732632</itemID>
+        <Photographer>Heart Rhythm</Photographer>
+        <pubDate>Sun, 26 Feb 2023 15:17:13 GMT</pubDate>
+        <itemID>732780</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JUDY SIEGEL-ITZKOVICH</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>scientific study,heart,smartwatch,Assuta Health</Tags>
+        <CategoryID>140</CategoryID>
+        <SocialTitle>Can fitness trackers do more harm than good for the heart? - study</SocialTitle>
+</item>
+                
+
+<item>
+    <title>People with this unusual eye mark are at risk of heart attacks - here&#x27;s why</title>
+    <link>https://www.jpost.com/health-and-wellness/nutrition/article-732750</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/508538&#x27; /&gt;&lt;br /&gt;Cholesterol accumulation can lead to dangerous and life-threatening health problems. A blood test will determine if you have high cholesterol, yet other signs can raise a red flag.&lt;br /&gt; 
+     </description>
+        <Photographer>FLICKR</Photographer>
+        <pubDate>Sun, 26 Feb 2023 07:29:19 GMT</pubDate>
+        <itemID>732750</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -1031,22 +1165,22 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By Walla!</Author>
         <Sponsored>False</Sponsored>
-        <Tags>education,Babies,TV screen,Parenting,Assuta Health</Tags>
+        <Tags>health,CDC,cholesterol,Nutrition,Assuta Health</Tags>
         <CategoryID>140</CategoryID>
-            <SubCategoryID>1095</SubCategoryID>
-        <SocialTitle>Children&#x27;s success in school depends on screen time as babies</SocialTitle>
+            <SubCategoryID>1092</SubCategoryID>
+        <SocialTitle>People with this unusual eye mark are at risk of heart attacks </SocialTitle>
 </item>
                 
 
 <item>
-    <title>Israel&#x27;s hospital bed shortage continues, wait times longer than ever</title>
-    <link>https://www.jpost.com/health-and-wellness/article-732546</link>
+    <title>ADHD can slow down ability to understand speech - Israeli study</title>
+    <link>https://www.jpost.com/health-and-wellness/mind-and-spirit/article-732778</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/527426&#x27; /&gt;&lt;br /&gt;The rate of beds for acute care in Israel is only 2.0 per 1,000 people, a figure significantly lower than the OECD average, which is 3.5.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/506135&#x27; /&gt;&lt;br /&gt;The findings showed that the people in the ADHD group had a delay/slowdown of half a second in performing the task, that is, a delay in processing speech.&lt;br /&gt; 
      </description>
-        <Photographer>OLIVIER FITOUSSI/FLASH90</Photographer>
-        <pubDate>Thu, 23 Feb 2023 15:27:38 GMT</pubDate>
-        <itemID>732546</itemID>
+        <Photographer>Wikimedia Commons</Photographer>
+        <pubDate>Sun, 26 Feb 2023 14:34:35 GMT</pubDate>
+        <itemID>732778</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -1054,21 +1188,66 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By JUDY SIEGEL-ITZKOVICH</Author>
         <Sponsored>False</Sponsored>
-        <Tags>health,hospital,oecd,oecd israel,Healthcare System,Assuta Health</Tags>
+        <Tags>scientific study,ADHD,Language,Assuta Health</Tags>
         <CategoryID>140</CategoryID>
-        <SocialTitle>Israel&#x27;s hospital bed shortage continues, wait times longer than ever</SocialTitle>
+            <SubCategoryID>1091</SubCategoryID>
+        <SocialTitle>ADHD can slow down ability to understand speech - Israeli study</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Face masks had little effect in preventing COVID-19 infection, British study claims</title>
-    <link>https://www.jpost.com/health-and-wellness/article-732551</link>
+    <title>Yeshiva U. to open first US clinic for Non-Verbal Learning Disorder</title>
+    <link>https://www.jpost.com/health-and-wellness/article-732804</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/482762&#x27; /&gt;&lt;br /&gt;During the middle of the COVID-19 pandemic, Israelis were fined by government authorities for not wearing face masks in public places, and violent incidents ensued when people refused to don them.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/440633&#x27; /&gt;&lt;br /&gt;People with NFLD can often write and speak well. However, there are still things they struggle with, such as abstract concepts and social cues.&lt;br /&gt; 
      </description>
-        <Photographer>MIRIAM ALSTER/FLASH90</Photographer>
-        <pubDate>Thu, 23 Feb 2023 16:27:25 GMT</pubDate>
-        <itemID>732551</itemID>
+        <Photographer>SCALIGERA/ENGLISH WIKIPEDIA</Photographer>
+        <pubDate>Sun, 26 Feb 2023 20:28:18 GMT</pubDate>
+        <itemID>732804</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>education,yeshiva university,disability,Assuta Health</Tags>
+        <CategoryID>140</CategoryID>
+        <SocialTitle>Yeshiva U. to open first US clinic for Non-Verbal Learning Disorder</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Virginia scientists uncover new method to prevent loss of eyesight - study</title>
+    <link>https://www.jpost.com/health-and-wellness/article-732700</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/483198&#x27; /&gt;&lt;br /&gt;The study identified a protein connected to the growth of vascular endothelial growth factor-A, which can cause vision loss.&lt;br /&gt; 
+     </description>
+        <Photographer>INGIMAGE</Photographer>
+        <pubDate>Sat, 25 Feb 2023 15:21:32 GMT</pubDate>
+        <itemID>732700</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By JERUSALEM POST STAFF</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>health,scientific study,blind,blindness</Tags>
+        <CategoryID>140</CategoryID>
+        <SocialTitle>Virginia scientists uncover new method to prevent loss of eyesight</SocialTitle>
+</item>
+                
+
+<item>
+    <title>University of Haifa scientists unlock key to drought-resistant wheat plants - study</title>
+    <link>https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-732757</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/503479&#x27; /&gt;&lt;br /&gt;An international team of scientists found that the right number of copies of a specific group of genes can stimulate longer root growth.&lt;br /&gt; 
+     </description>
+        <Photographer>REUTERS/VINCENT MUNDY</Photographer>
+        <pubDate>Sun, 26 Feb 2023 09:56:25 GMT</pubDate>
+        <itemID>732757</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -1076,75 +1255,10 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By JUDY SIEGEL-ITZKOVICH</Author>
         <Sponsored>False</Sponsored>
-        <Tags>gas masks,Coronavirus,COVID-19,Masks,pandemic</Tags>
-        <CategoryID>140</CategoryID>
-        <SocialTitle>Face masks had little effect in preventing COVID-19, UK study claims</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Pre-marathon coffee? Caffeine helps performance, studies find</title>
-    <link>https://www.jpost.com/health-and-wellness/article-732610</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/466836&#x27; /&gt;&lt;br /&gt;Numerous studies have found that caffeine consumption can boost physical endurance during high-intensity exercises like running, cycling or swimming.&lt;br /&gt; 
-     </description>
-        <Photographer>KAPAIM ACTIVE</Photographer>
-        <pubDate>Fri, 24 Feb 2023 00:55:15 GMT</pubDate>
-        <itemID>732610</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>healthy living,health,marathon,scientific study,coffee,Caffeine,Assuta Health</Tags>
-        <CategoryID>140</CategoryID>
-        <SocialTitle>Pre-marathon coffee? Caffeine helps performance, studies find</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Russia launches spacecraft to rescue cosmonauts, astronaut stranded on ISS</title>
-    <link>https://www.jpost.com/international/article-732650</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528234&#x27; /&gt;&lt;br /&gt;An external coolant leak was detected on the Russian spacecraft Soyuz MS-22, rendering it inoperable for a standard return mission.&lt;br /&gt; 
-     </description>
-        <Photographer>RUSSIAN SPACE AGENCY ROSCOSMOS/HANDOUT VIA REUTERS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 15:52:34 GMT</pubDate>
-        <itemID>732650</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JERUSALEM POST STAFF</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>United States,Russia,international space station,space,Spacecraft</Tags>
-        <CategoryID>13</CategoryID>
-        <SocialTitle>Russia launches spacecraft to rescue cosmonauts, astronaut on ISS</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Corgi-sized meteor as heavy as 4 baby elephants hit Texas - NASA</title>
-    <link>https://www.jpost.com/science/article-732223</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/487974&#x27; /&gt;&lt;br /&gt;The meteor in question struck the Earth near McAllen, Texas with the energy equivalent of 8 tons of TNT, but there were no reported casualties or damages.&lt;br /&gt; 
-     </description>
-        <Photographer>SHUTTERSTOCK</Photographer>
-        <pubDate>Tue, 21 Feb 2023 08:39:39 GMT</pubDate>
-        <itemID>732223</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By AARON REICH</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>space,NASA,texas,meteor shower,asteroid</Tags>
-        <CategoryID>141</CategoryID>
-        <SocialTitle>Corgi-sized meteor as heavy as 4 baby elephants hit Texas - NASA</SocialTitle>
+        <Tags>technology,agriculture,scientific study,genetics,water,University of Haifa</Tags>
+        <CategoryID>142</CategoryID>
+            <SubCategoryID>1117</SubCategoryID>
+        <SocialTitle>University of Haifa scientists unlock key to drought-resistant wheat</SocialTitle>
 </item>
                 
 
@@ -1195,14 +1309,14 @@
                 
 
 <item>
-    <title>US Navy identifies lost World War II submarine off coast of Japan</title>
-    <link>https://www.jpost.com/archaeology/article-732657</link>
+    <title>Newly discovered Roman fort found in Bl&#xF6;skopf, Germany</title>
+    <link>https://www.jpost.com/archaeology/article-732808</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528237&#x27; /&gt;&lt;br /&gt;The Underwater Archaeology branch of the US Naval History and Heritage Command used images and data from Dr. Tamaki Ura of the University of Tokyo to confirm the submarine&#x27;s identity.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/526852&#x27; /&gt;&lt;br /&gt;The Roman fort, a first of its kind discovery, once housed 3000 soldiers.&lt;br /&gt; 
      </description>
-        <Photographer>US NAVAL HISTORICAL CENTER/PUBLIC DOMAIN/VIA WIKIMEDIA COMMONS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 19:00:24 GMT</pubDate>
-        <itemID>732657</itemID>
+        <Photographer>ARI LEVY/ISRAEL ANTIQUITIES AUTHORITY</Photographer>
+        <pubDate>Mon, 27 Feb 2023 02:48:24 GMT</pubDate>
+        <itemID>732808</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -1210,76 +1324,76 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By JERUSALEM POST STAFF</Author>
         <Sponsored>False</Sponsored>
-        <Tags>archaeology,US Navy,Navy,Submarine</Tags>
+        <Tags>archaeology,history,Rome,romans</Tags>
         <CategoryID>123</CategoryID>
-        <SocialTitle>US Navy identifies lost World War II submarine off coast of Japan</SocialTitle>
+        <SocialTitle>Newly discovered Roman fort found in Bl&#xF6;skopf, Germany</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Remains at archaeological site from Bronze Age Israel had &#x27;brain surgery&#x27;</title>
-    <link>https://www.jpost.com/archaeology/article-732389</link>
+    <title>Archaeologists unearth 1,200-year-old temple in Peru - study</title>
+    <link>https://www.jpost.com/archaeology/article-732738</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528007&#x27; /&gt;&lt;br /&gt;In biblical times, two unnamed brothers suffered from chronic illness, and one was treated by making a hole in his head&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/522375&#x27; /&gt;&lt;br /&gt;The temple was built on top of a platform with adjoining structures in which religious officials would have lived, according to a study.&lt;br /&gt; 
      </description>
-        <Photographer>Kalisher et al.,2023, PLOS ONE, CC-BY 4.0</Photographer>
-        <pubDate>Wed, 22 Feb 2023 19:04:44 GMT</pubDate>
-        <itemID>732389</itemID>
+        <Photographer>FLICKR</Photographer>
+        <pubDate>Sun, 26 Feb 2023 03:05:52 GMT</pubDate>
+        <itemID>732738</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By JUDY SIEGEL-ITZKOVICH</Author>
+        <Author>By JERUSALEM POST STAFF</Author>
         <Sponsored>False</Sponsored>
-        <Tags>archaeology,israel history,Biblical archaeology</Tags>
+        <Tags>archaeology,peru,south america,research</Tags>
         <CategoryID>123</CategoryID>
-        <SocialTitle>Remains at archaeological site from Bronze Age Israel had brain surgery</SocialTitle>
+        <SocialTitle>Archaeologists unearth 1,200-year-old temple in Peru - study</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Dubai-based rabbi has tefillin straps cut by Jordanian airport security</title>
-    <link>https://www.jpost.com/diaspora/article-732392</link>
+    <title>Composers hounded by Nazi regime get their due at ANU</title>
+    <link>https://www.jpost.com/israel-news/culture/article-732790</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/478940&#x27; /&gt;&lt;br /&gt;Security guards said the leather straps posed a security risk and cut them off. The rabbi was allowed to take the box.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528310&#x27; /&gt;&lt;br /&gt;Echoes from a lost world: ANU &#x2013; Museum of the Jewish People hosts &quot;Lullabies, Love and War&quot;&lt;br /&gt; 
      </description>
-        <Photographer>ANDREW KELLY / REUTERS</Photographer>
-        <pubDate>Wed, 22 Feb 2023 15:02:48 GMT</pubDate>
-        <itemID>732392</itemID>
+        <Photographer>Azzurra</Photographer>
+        <pubDate>Sun, 26 Feb 2023 22:05:15 GMT</pubDate>
+        <itemID>732790</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By ZVIKA KLEIN</Author>
+        <Author>By BARRY DAVIS</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Jordan,rabbi,diaspora,UAE,UAE Israel</Tags>
-        <CategoryID>71</CategoryID>
-            <SubCategoryID>969</SubCategoryID>
-        <SocialTitle>Dubai-based rabbi has tefillin straps cut by Jordanian airport security</SocialTitle>
+        <Tags>Holocaust,music,Concert,Museum of the Jewish People</Tags>
+        <CategoryID>69</CategoryID>
+            <SubCategoryID>132</SubCategoryID>
+        <SocialTitle>Composers hounded by Nazi regime get their due at ANU</SocialTitle>
 </item>
                 
 
 <item>
-    <title>The real story behind Jewish family comedy &#x2018;iMordecai&#x2019; and its unusual path to the big screen</title>
-    <link>https://www.jpost.com/diaspora/article-732676</link>
+    <title>Trump investigation: Over 2,000 files withheld due to Republican court fight</title>
+    <link>https://www.jpost.com/us-elections/article-732725</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_Control/260101&#x27; /&gt;&lt;br /&gt;&#x201C;I think that this film has the capacity to possibly impact and resonate with people of all ages,&#x201D; said Igor Shteyrenberg, executive director of the festival.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/523297&#x27; /&gt;&lt;br /&gt;Scott Perry, a Republican congressman, has prevented federal investigators from reviewing over 2,200 relating to Donald Trump.&lt;br /&gt; 
      </description>
-        <Photographer>REUTERS</Photographer>
-        <pubDate>Sat, 25 Feb 2023 03:08:03 GMT</pubDate>
-        <itemID>732676</itemID>
+        <Photographer>REUTERS/MARCO BELLO</Photographer>
+        <pubDate>Sat, 25 Feb 2023 18:54:44 GMT</pubDate>
+        <itemID>732725</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By STEPHEN SILVER/JTA</Author>
+        <Author>By REUTERS</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Holocaust,Judaism,technology,movie,film festival</Tags>
-        <CategoryID>71</CategoryID>
-        <SocialTitle>The real story behind Jewish family comedy &#x2018;iMordecai&#x2019; </SocialTitle>
+        <Tags>United States,white house,Donald Trump,american politics</Tags>
+        <CategoryID>88</CategoryID>
+        <SocialTitle>Trump investigation: Over 2,000 files withheld by Republican court fight</SocialTitle>
 </item>
                 
 
@@ -1306,138 +1420,135 @@
                 
 
 <item>
-    <title>Is Israel&#x27;s judicial crisis part of the Trumpist epoch?</title>
-    <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-732580</link>
+    <title>Haredi faction demands funding for its private schools in Israel&#x27;s new state budget</title>
+    <link>https://www.jpost.com/business-and-innovation/all-news/article-732759</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528191&#x27; /&gt;&lt;br /&gt;MIDDLE ISRAEL: The lying that accompanies the Levin Plan is part of the global war on truth.&#xD;&#xA;&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/440953&#x27; /&gt;&lt;br /&gt;Senior figures in Degel Hatorah even threatened not to support the budget in the Knesset if the issue is not taken care of.&lt;br /&gt; 
      </description>
-        <Photographer>GILI YAARI/FLASH90</Photographer>
-        <pubDate>Fri, 24 Feb 2023 08:53:28 GMT</pubDate>
-        <itemID>732580</itemID>
+        <Photographer>JERUSALEM COLLEGE OF TECHNOLOGY</Photographer>
+        <pubDate>Sun, 26 Feb 2023 10:20:05 GMT</pubDate>
+        <itemID>732759</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By AMOTZ ASA-EL</Author>
+        <Author>By ELIAV BREUER</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Knesset,high court of justice,israeli knesset,Yariv Levin,Judicial Reform</Tags>
-        <CategoryID>69</CategoryID>
-            <SubCategoryID>128</SubCategoryID>
-        <SocialTitle>Is Israel&#x27;s judicial crisis part of the Trumpist epoch?</SocialTitle>
+        <Tags>Israel,Knesset,Ultra-Orthodox,united torah judaism,moshe gafni,Politics,Israeli Government Budget</Tags>
+        <CategoryID>142</CategoryID>
+            <SubCategoryID>1112</SubCategoryID>
+        <SocialTitle>Haredi faction demands funding for its private schools in Israeli budget</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Jewish comedian Modi Rosenfeld says he has Orthodox fans after opening up about being gay</title>
-    <link>https://www.jpost.com/israel-news/culture/article-732672</link>
+    <title>9 Adar: A call for constructive conflict among the Jewish people - opinion</title>
+    <link>https://www.jpost.com/opinion/article-732799</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/516894&#x27; /&gt;&lt;br /&gt;Rabbi Bashevkin said he felt nervous about speaking onstage with Rosenfeld now that the comedian&#x2019;s sexual orientation is public knowledge&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528317&#x27; /&gt;&lt;br /&gt;The Beit Shammai-Beit Hillel confrontation must serve as a warning of what can go wrong when one group bulldozes legislation against the will of a major constituency.&lt;br /&gt; 
      </description>
-        <Photographer>modi</Photographer>
-        <pubDate>Sat, 25 Feb 2023 02:12:02 GMT</pubDate>
-        <itemID>732672</itemID>
+        <Photographer>YONATAN SINDEL/FLASH90</Photographer>
+        <pubDate>Sun, 26 Feb 2023 23:04:00 GMT</pubDate>
+        <itemID>732799</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By Jackie Hajdenberg/JTA</Author>
+        <Author>By MEESH HAMMER-KOSSOY</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Judaism,LGBT,comedian,LGBTQ&#x2B;</Tags>
-        <CategoryID>69</CategoryID>
-            <SubCategoryID>132</SubCategoryID>
-        <SocialTitle>Modi Rosenfeld says he still has Orthodox fans after coming out as gay</SocialTitle>
+        <Tags>Babylonian Talmud,Talmud,Civil War,Judicial Reform</Tags>
+        <CategoryID>5</CategoryID>
+        <SocialTitle>9 Adar: A call for constructive conflict among the Jewish people</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Parashat Truma: Precision, perfectionism and goodwill</title>
-    <link>https://www.jpost.com/judaism/torah-portion/article-732517</link>
+    <title>Latino America Festival to take place at the Tel Aviv Museum next week</title>
+    <link>https://www.jpost.com/j-spot/article-732716</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528136&#x27; /&gt;&lt;br /&gt;Even partial results are considered sufficient when they are based on a sincere desire to do the right thing.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528265&#x27; /&gt;&lt;br /&gt;In Brazil alone, there are umpteen musical idioms, including samba, bossa nova, choro and frevo to mention but a few.&lt;br /&gt; 
      </description>
-        <Photographer>Wikimedia Commons</Photographer>
-        <pubDate>Fri, 24 Feb 2023 10:09:54 GMT</pubDate>
-        <itemID>732517</itemID>
+        <Photographer>MARTINA HOUDEK</Photographer>
+        <pubDate>Sat, 25 Feb 2023 23:19:29 GMT</pubDate>
+        <itemID>732716</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By RABBI SHMUEL RABINOWITZ</Author>
+        <Author>By BARRY DAVIS</Author>
         <Sponsored>False</Sponsored>
-        <Tags>Judaism,Torah,bible,parasha</Tags>
-        <CategoryID>111</CategoryID>
-            <SubCategoryID>1047</SubCategoryID>
-        <SocialTitle>Parashat Truma: Precision, perfectionism and goodwill</SocialTitle>
+        <Tags>music,latin america,festival,Latinos</Tags>
+        <CategoryID>89</CategoryID>
+        <SocialTitle>Latino America Festival to take place at the Tel Aviv Museum next week</SocialTitle>
 </item>
                 
 
 <item>
-    <title>Meet the real-life sister act behind the two new &#x2019;90s Jewish American Girl dolls</title>
-    <link>https://www.jpost.com/diaspora/article-732678</link>
+    <title>Maaleh Film School: Reflecting on 75 years of Israel through film</title>
+    <link>https://www.jpost.com/must/article-732483</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_Control/33421&#x27; /&gt;&lt;br /&gt;American Girl released its first twin dolls, Isabel and Nicki Hoffman, who are also the first characters from a Jewish-Christian interfaith family.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528075&#x27; /&gt;&lt;br /&gt;Maaleh recently promulgated the idea that facilities throughout Israel could benefit from screening its student films to locals.&lt;br /&gt; 
      </description>
-        <Photographer>JTA</Photographer>
-        <pubDate>Sat, 25 Feb 2023 03:24:15 GMT</pubDate>
-        <itemID>732678</itemID>
+        <Photographer>Maaleh Film School</Photographer>
+        <pubDate>Sat, 25 Feb 2023 14:56:21 GMT</pubDate>
+        <itemID>732483</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By Jackie Hajdenberg/JTA</Author>
+        <Author>By BARRY DAVIS</Author>
         <Sponsored>False</Sponsored>
-        <Tags>religion,marriage,Americans,interfaith,dolls</Tags>
-        <CategoryID>71</CategoryID>
-        <SocialTitle>Real-life sister act behind the two new &#x2019;90s Jewish American Girl dolls</SocialTitle>
+        <Tags>Haredi,IDF,cinema,history,film,Social,movie</Tags>
+        <CategoryID>128</CategoryID>
+        <SocialTitle>Maaleh Film School: Reflecting on 75 years of Israel through film</SocialTitle>
 </item>
                 
 
 <item>
-    <title>There&#x2019;s a Grammy for Christian music. These musicians want Jewish music to get one, too.</title>
-    <link>https://www.jpost.com/diaspora/article-732664</link>
+    <title>Skipping breakfast can damage your immune response - study</title>
+    <link>https://www.jpost.com/health-and-wellness/article-732689</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528245&#x27; /&gt;&lt;br /&gt;Two musicians are proposing a &quot;best Jewish music album&quot; category be added to the Grammys.&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/514530&#x27; /&gt;&lt;br /&gt;Skipping meals through intermittent or prolonged fasting periods cause certain white blood cells to go dormant.&lt;br /&gt; 
      </description>
-        <Photographer>REUTERS/MIKE BLAKE</Photographer>
-        <pubDate>Fri, 24 Feb 2023 21:52:36 GMT</pubDate>
-        <itemID>732664</itemID>
+        <Photographer>PXHERE</Photographer>
+        <pubDate>Sat, 25 Feb 2023 12:06:07 GMT</pubDate>
+        <itemID>732689</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By ANDREW ESENSTEN/JTA</Author>
+        <Author>By JERUSALEM POST STAFF</Author>
         <Sponsored>False</Sponsored>
-        <Tags>music,jewish customs,Jewish Celebrity,Grammy Awards</Tags>
-        <CategoryID>71</CategoryID>
-        <SocialTitle>These musicians want a Jewish Music Award</SocialTitle>
-</item>
-                
-
-<item>
-    <title>Want healthy chocolate? You can 3D print it - study</title>
-    <link>https://www.jpost.com/health-and-wellness/nutrition/article-732087</link>
-    <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_Control/236092&#x27; /&gt;&lt;br /&gt;The work heralds what the researcher hopes will be a new line of &#x201C;functional foods&#x201D; &#x2013; edibles specially designed with health benefits. The&lt;br /&gt; 
-     </description>
-        <Photographer>Courtesy</Photographer>
-        <pubDate>Sun, 19 Feb 2023 19:51:03 GMT</pubDate>
-        <itemID>732087</itemID>
-        <isPremium>N</isPremium>
-        <isVideo>False</isVideo>
-        <RelatedItemID1></RelatedItemID1>
-        <RelatedItemID2></RelatedItemID2>
-        <RelatedItemID3></RelatedItemID3>
-        <Author>By JUDY SIEGEL-ITZKOVICH</Author>
-        <Sponsored>False</Sponsored>
-        <Tags>science,scientific study,3D printing,chocolate</Tags>
+        <Tags>health,cancer,Arnaud Mimran,immune system,cardiovascular,Assuta Health</Tags>
         <CategoryID>140</CategoryID>
-            <SubCategoryID>1092</SubCategoryID>
-        <SocialTitle>Want healthy chocolate? You can 3D print it - study</SocialTitle>
+        <SocialTitle>Skipping breakfast can damage your immune response - study</SocialTitle>
+</item>
+                
+
+<item>
+    <title>Pascale&#x2019;s Kitchen: Trying something new, just for the fun of it</title>
+    <link>https://www.jpost.com/food-recipes/article-732499</link>
+    <description>        
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528107&#x27; /&gt;&lt;br /&gt;Here are recipes for three dishes that can really spice up your week: Indian naan bread; labaneh balls; and cinnamon nut cake.&#xA0;&lt;br /&gt; 
+     </description>
+        <Photographer>PASCALE PEREZ-RUBIN/ANATOLY MICHAELLO</Photographer>
+        <pubDate>Sat, 25 Feb 2023 09:49:07 GMT</pubDate>
+        <itemID>732499</itemID>
+        <isPremium>N</isPremium>
+        <isVideo>False</isVideo>
+        <RelatedItemID1></RelatedItemID1>
+        <RelatedItemID2></RelatedItemID2>
+        <RelatedItemID3></RelatedItemID3>
+        <Author>By PASCALE PEREZ-RUBIN</Author>
+        <Sponsored>False</Sponsored>
+        <Tags>cooking,food,recipe,cake,bread</Tags>
+        <CategoryID>120</CategoryID>
+        <SocialTitle>Pascale&#x2019;s Kitchen: Trying something new, just for the fun of it</SocialTitle>
 </item>
                 
 
@@ -1487,14 +1598,14 @@
                 
 
 <item>
-    <title>Elderly Florida woman killed by alligator while saving her dog</title>
-    <link>https://www.jpost.com/omg/article-732652</link>
+    <title>Heinz tries to find marooned sailor who survived on only ketchup, spices</title>
+    <link>https://www.jpost.com/omg/article-732736</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/515053&#x27; /&gt;&lt;br /&gt;Gloria Serge&#x27;s dog survived the attack Monday in Fort Pierce, according to a representative for the state&#x27;s fish and wildlife department.&#xD;&#xA;&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/528280&#x27; /&gt;&lt;br /&gt;Sailor Elvis Francois survived on nothing but ketchup and spices while he was marooned in the Caribbean Sea for 24 days.&lt;br /&gt; 
      </description>
-        <Photographer>PUBLIC DOMAIN/VIA WIKIMEDIA COMMONS</Photographer>
-        <pubDate>Fri, 24 Feb 2023 16:48:32 GMT</pubDate>
-        <itemID>732652</itemID>
+        <Photographer>REUTERS/MIKE BLAKE/ILLUSTRATION</Photographer>
+        <pubDate>Sun, 26 Feb 2023 02:17:58 GMT</pubDate>
+        <itemID>732736</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
@@ -1502,9 +1613,9 @@
         <RelatedItemID3></RelatedItemID3>
         <Author>By JERUSALEM POST STAFF</Author>
         <Sponsored>False</Sponsored>
-        <Tags>elderly,accident,South Florida,Florida,death</Tags>
+        <Tags>food,Instagram,boat,Caribbean</Tags>
         <CategoryID>99</CategoryID>
-        <SocialTitle>Elderly Florida woman killed by alligator while saving her dog</SocialTitle>
+        <SocialTitle>Heinz tries to find marooned sailor who survived on only ketchup, spices</SocialTitle>
 </item>
                 
 
@@ -1553,24 +1664,24 @@
                 
 
 <item>
-    <title>A perfectly harmonious Tel Aviv masterpiece at the epicenter of Zionism</title>
-    <link>https://www.jpost.com/special-content/a-healthy-new-york-style-home-in-the-heart-of-the-white-city-731333</link>
+    <title>Send flowers internationally with Floraqueen</title>
+    <link>https://www.jpost.com/special-content/send-flowers-internationally-with-floraqueen-732299</link>
     <description>        
-            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/527776&#x27; /&gt;&lt;br /&gt;&lt;br /&gt; 
+            &lt;img align=&#x27;right&#x27; src=&#x27;https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/527924&#x27; /&gt;&lt;br /&gt;&lt;br /&gt; 
      </description>
-        <Photographer>Studio Aiko</Photographer>
-        <pubDate>Thu, 16 Feb 2023 12:57:58 GMT</pubDate>
-        <itemID>731333</itemID>
+        <Photographer>freepik</Photographer>
+        <pubDate>Sun, 26 Feb 2023 07:26:51 GMT</pubDate>
+        <itemID>732299</itemID>
         <isPremium>N</isPremium>
         <isVideo>False</isVideo>
         <RelatedItemID1></RelatedItemID1>
         <RelatedItemID2></RelatedItemID2>
         <RelatedItemID3></RelatedItemID3>
-        <Author>By Sani</Author>
+        <Author>By YOAV LEVIN</Author>
         <Sponsored>False</Sponsored>
         <Tags></Tags>
         <CategoryID>107</CategoryID>
-        <SocialTitle>A perfectly harmonious Tel Aviv masterpiece at the epicenter of Zionism</SocialTitle>
+        <SocialTitle>Send flowers internationally with Floraqueen</SocialTitle>
 </item>
     </channel>
 </rss>

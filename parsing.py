@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 import xml.etree.ElementTree as ET
-
+from datetime import  datetime
 
 
 def g(func):
@@ -21,19 +21,13 @@ def g(func):
 class parsing_part:
     def __init__(self):
         self.urls_list = []
-        self.__inisialization()
-
-    def __inisialization(self):
-        files = {"main_page.aspx": "https://rss.jpost.com/rss/rssfeedsfrontpage.aspx"}
-        for file, url in files.items():
-            with open(file, 'w', encoding='UTF-8') as inf:
-                inf.write(requests.get(url).text)
     @g
-    def get_links(self, file, page_type="home page"):
-        tree = ET.parse(file)
-        root = tree.getroot()
-        for neighbor in root.iter('link'):
-            self.urls_list.append((neighbor.text, page_type))
+    def get_links(self, url, page_type="home page"):
+        root = ET.fromstring(requests.get(url).text)
+        for item in root.iter('item'):
+            date = datetime.strptime(item.find('pubDate').text.replace(' GMT', ''), '%a, %d %b %Y %H:%M:%S')
+            self.urls_list.append((item.find('link').text, date))
+
     def database_sending(self):
         print(self.urls_list)
 #0.6857387000000001
