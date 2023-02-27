@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 import requests
 import time
 import xml.etree.ElementTree as ET
@@ -15,14 +14,13 @@ def g(func):
     return inner
 
 
-# class “one-row”
 
 
 class parsing_part:
     def __init__(self):
         self.urls_list = []
     @g
-    def get_links(self, url, page_type="home page"):
+    def get_links(self, url):
         root = ET.fromstring(requests.get(url).text)
         for item in root.iter('item'):
             date = datetime.strptime(item.find('pubDate').text.replace(' GMT', ''), '%a, %d %b %Y %H:%M:%S')
