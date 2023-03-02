@@ -12,7 +12,7 @@ start = time.perf_counter()
 pars = parsing.parsing_part()
 
 pars.get_links("https://rss.jpost.com/rss/rssfeedsfrontpage.aspx")
-pars.database_sending()
+#pars.database_sending()
 print("it took", time.perf_counter() - start )
 #@dp.message_handler(commands=['help', 'start'])
 #async def send_welcome_message(mesage: types.Message):

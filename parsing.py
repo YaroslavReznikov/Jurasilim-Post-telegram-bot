@@ -3,7 +3,7 @@ import time
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from setup import password, database_name, host, user
-import pymysql
+import mysql.connector
 
 
 def g(func):
@@ -16,28 +16,27 @@ def g(func):
     return inner
 
 
-
 class parsing_part:
     def __init__(self):
-        self.urls_list = []
-        self.database = pymysql.connect(
-            host=host,
-            password=password,
-            database=database_name,
-            user=user,
-            port=3306,
-            cursorclass=pymysql.cursors.DictCursor
+        self.database = mysql.connector.connect(
+            host='localhost',
+            user='root',
+            password='yaros5lav',
+            database='first_project',
         )
+        self.cursor = self.database.cursor()
 
-    @g
+
     def get_links(self, url):
         root = ET.fromstring(requests.get(url).text)
         for item in root.iter('item'):
             date = datetime.strptime(item.find('pubDate').text.replace(' GMT', ''), '%a, %d %b %Y %H:%M:%S')
-            self.urls_list.append((item.find('link').text, date))
+            try:
+                self.cursor.execute("INSERT INTO jurusalem_post (url, publication_date) VALUES (%s, %s)", (item.find('link').text, date))
+                self.database.commit()
+            except:
+                pass
 
-    def database_sending(self):
-        print(self.urls_list)
 
     def send_links_to_user(self):
         print('does_something_with_database')
