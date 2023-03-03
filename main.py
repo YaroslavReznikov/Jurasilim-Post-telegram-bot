@@ -1,23 +1,21 @@
-import logging
 import parsing
-from aiogram import Bot, Dispatcher, executor, types
+import telebot
 import time
-import requests
 
 token = "5744717544:AAE0s0J_X8zz1EW3zexj1dW4tYdsoTVCCxY"
-bot = Bot(token)
-dp = Dispatcher(bot)
+bot = telebot.TeleBot(token)
+#dp = Dispatcher(bot)
 
-start = time.perf_counter()
+#start = time.perf_counter()
 pars = parsing.parsing_part()
 
-pars.get_links("https://rss.jpost.com/rss/rssfeedsfrontpage.aspx")
-#pars.database_sending()
-print("it took", time.perf_counter() - start )
-#@dp.message_handler(commands=['help', 'start'])
-#async def send_welcome_message(mesage: types.Message):
-#    await mesage.reply("Hi")
+links = pars.send_links_to_user()
 
+@bot.message_handler(commands=['new'])
+def send_new(message):
+    for _ in range(5):
+        id, url = next(links)
+        bot.send_message(message.chat.id, text=F"{url}")
+        pars.update_sended(id)
 
-#if __name__ == '__main__':
-    #executor.start_polling(dp)
+bot.polling(none_stop=True)

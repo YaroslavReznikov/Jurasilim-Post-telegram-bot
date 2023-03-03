@@ -24,7 +24,7 @@ class parsing_part:
             password='yaros5lav',
             database='first_project',
         )
-        self.cursor = self.database.cursor()
+        self.cursor = self.database.cursor(buffered=True)
 
 
     def get_links(self, url):
@@ -38,6 +38,17 @@ class parsing_part:
                 pass
 
 
+    def set_sended_to_zero(self):
+        self.cursor.execute("UPDATE jurusalem_post sended = 0")
+
     def send_links_to_user(self):
-        print('does_something_with_database')
+        self.cursor.execute('SELECT * from jurusalem_post WHERE sended = 0 ORDER BY publication_date DESC;')
+        result = self.cursor.fetchall()
+        for id, url, date, sended in result:
+            yield [id, url]
+
+    def update_sended(self, id):
+        self.cursor.execute(F"UPDATE jurusalem_post SET sended = true WHERE ID = {id};",)
+        self.database.commit()
+
 # 0.6857387000000001
