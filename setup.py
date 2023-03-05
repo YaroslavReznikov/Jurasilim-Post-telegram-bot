@@ -1,5 +1,5 @@
-host = "local_host"
-user = "student"
+host = "localhost"
+user = "root"
 password = "yaros5lav"
-database_name = "student"
+database_name = "check_database"
 

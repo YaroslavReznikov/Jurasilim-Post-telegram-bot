@@ -1,47 +1,36 @@
 import requests
-import time
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from setup import password, database_name, host, user
 import mysql.connector
 
 
-def g(func):
-    def inner(*args, **kwargs):
-        start = time.perf_counter()
-        res = func(*args, **kwargs)
-        print(func.__name__, time.perf_counter() - start)
-        return res
-
-    return inner
-
-
 class parsing_part:
     def __init__(self):
         self.database = mysql.connector.connect(
-            host='localhost',
-            user='root',
-            password='yaros5lav',
-            database='first_project',
+            host=host,
+            user=user,
+            password=password,
+            database=database_name,
         )
         self.cursor = self.database.cursor(buffered=True)
-        self.cursor.execute("SELECT url FROM rss")
-        self.rss_urls = list(map(lambda x: x[0].strip(), self.cursor.fetchall()))[1:]
-        self.rss_id = {url: number + 1 for number, url in (enumerate(self.rss_urls))}
+        self.cursor.execute("SELECT id, url FROM rss "
+                            "ORDER BY id;")
+        self.rss_id = {url.strip(): number for number, url in self.cursor.fetchall()}
+        self.rss_urls = list(self.rss_id.keys())
 
-    @g
     def get_links(self):
         for url in self.rss_urls:
-            if url == '':
+            if url.strip() == '':
                 break
-            print(url)
-            root = ET.fromstring(requests.get(url).text)
+            root = ET.fromstring(requests.get(url.strip()).text)
             for item in root.iter('item'):
+                print(url.strip())
                 date = datetime.strptime(item.find('pubDate').text.replace(' GMT', ''), '%a, %d %b %Y %H:%M:%S')
                 try:
                     self.cursor.execute(
                         "INSERT INTO jurusalem_post (url, publication_date, rss_row) VALUES (%s, %s, %s)",
-                        (item.find('link').text, date, self.rss_id[url]))
+                        (item.find('link').text, date, self.rss_id[url.strip()]))
                     self.database.commit()
                 except:
                     pass
@@ -62,16 +51,15 @@ class parsing_part:
 
     def send_links_to_user(self):
         self.cursor.execute(
-            "SELECT jurusalem_post.url, jurusalem_post.publication_date, jurusalem_post.id, rss.category FROM "
+            "SELECT jurusalem_post.url, jurusalem_post.publication_date, jurusalem_post.id, rss.category, jurusalem_post.rss_row FROM "
             "jurusalem_post INNER JOIN rss "
-            "ON jurusalem_post.rss_row = rss.id"
+            "ON jurusalem_post.rss_row = rss.id "
+            "WHERE sended = 0"
             " ORDER BY DATEDIFF(CURRENT_TIMESTAMP(), publication_date) + HOUR(TIMEDIFF(CURRENT_TIMESTAMP(), publication_date)) - rss.bonus;")
         result = self.cursor.fetchall()
-        for id, url, date, topic in result:
+        for url, date, id, topic, row in result:
             yield [id, url, date, topic]
 
     def update_sended(self, id):
         self.cursor.execute(F"UPDATE jurusalem_post SET sended = true WHERE ID = {id};", )
         self.database.commit()
-
-# 0.6857387000000001
