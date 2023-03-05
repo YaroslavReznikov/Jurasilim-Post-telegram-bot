@@ -7,7 +7,7 @@ bot = telebot.TeleBot(token)
 
 pars = parsing.parsing_part()
 links = pars.send_links_to_user()
-schedule.every(10).seconds.do(pars.get_links)
+schedule.every(120).seconds.do(pars.get_links)
 while True:
     schedule.run_pending()
     @bot.message_handler(commands=['new'])
