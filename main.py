@@ -8,6 +8,7 @@ bot = telebot.TeleBot(token)
 pars = parsing.parsing_part()
 links = pars.send_links_to_user()
 schedule.every(120).seconds.do(pars.get_links)
+pars.feel_the_rss_database_database()
 while True:
     schedule.run_pending()
     @bot.message_handler(commands=['new'])
