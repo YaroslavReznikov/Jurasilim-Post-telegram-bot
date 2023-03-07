@@ -25,7 +25,6 @@ class parsing_part:
                 break
             root = ET.fromstring(requests.get(url.strip()).text)
             for item in root.iter('item'):
-                print(url.strip())
                 date = datetime.strptime(item.find('pubDate').text.replace(' GMT', ''), '%a, %d %b %Y %H:%M:%S')
                 try:
                     self.cursor.execute(
