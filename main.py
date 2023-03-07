@@ -1,3 +1,6 @@
+#!/usr/bin/end python3.9
+
+
 import parsing
 import telebot
 import schedule
