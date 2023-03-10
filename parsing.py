@@ -54,7 +54,7 @@ class parsing_part:
             "jurusalem_post INNER JOIN rss "
             "ON jurusalem_post.rss_row = rss.id "
             "WHERE sended = 0"
-            " ORDER BY DATEDIFF(CURRENT_TIMESTAMP(), publication_date) + HOUR(TIMEDIFF(CURRENT_TIMESTAMP(), publication_date)) - rss.bonus;")
+            " ORDER BY DATEDIFF(CURRENT_TIMESTAMP(), publication_date) * 24 + HOUR(TIMEDIFF(CURRENT_TIMESTAMP(), publication_date)) - rss.bonus;")
         result = self.cursor.fetchall()
         for url, date, id, topic, row in result:
             yield [id, url, date, topic]
