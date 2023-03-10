@@ -19,14 +19,13 @@ while True:
         links = pars.send_links_to_user()
         for _ in range(5):
             id, url, date, topic = next(links)
-            bot.send_message(message.chat.id, text=F"{date.strftime('%d: %m: %Y, %H:%M')}'\n' {topic} '\n' {url}")
+            bot.send_message(message.chat.id, text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
             pars.update_sended(id)
 
 
     @bot.message_handler(commands=['check'])
     def admin_check(message):
         id, url, date, topic = next(pars.send_links_to_user())
-        bot.send_message(message.chat.id, text=F"{date.strftime('%d: %m: %Y, %H:%M')}'\n' {topic} '\n' {url}")
-
-
+        bot.send_message(message.chat.id, text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
     bot.polling(none_stop=True)
+
