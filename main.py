@@ -31,3 +31,5 @@ def admin_check(message):
 
     id, url, date, topic = next(pars.send_links_to_user())
     bot.send_message(message.chat.id, text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
+
+bot.polling(none_stop=True)
