@@ -27,8 +27,6 @@ def send_new(message):
 
 @bot.message_handler(commands=['check'])
 def admin_check(message):
-    print('send_first')
-
     id, url, date, topic = next(pars.send_links_to_user())
     bot.send_message(message.chat.id, text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
 
