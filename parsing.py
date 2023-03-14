@@ -20,9 +20,7 @@ class parsing_part:
         self.rss_urls = list(self.rss_id.keys())
 
     def get_links(self):
-        print('started')
         for url in self.rss_urls:
-            print(url)
             if url.strip() == '':
                 break
             root = ET.fromstring(requests.get(url.strip()).text)
