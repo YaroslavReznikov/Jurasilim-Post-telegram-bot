@@ -8,7 +8,7 @@ from time import time
 try:
     token = "5744717544:AAE0s0J_X8zz1EW3zexj1dW4tYdsoTVCCxY"
     bot = telebot.TeleBot(token)
-    bot.send_message({"ok":True,"result":{"message_id":9999,"from":{"id":00000000,"is_bot":True,"first_name":"mybot","username":"mybot"}}})
+    print(bot.user)
 except:
     print("already works")
 else:
