@@ -3,6 +3,7 @@
 
 import parsing
 import telebot
+import logging
 
 try:
     token = "5744717544:AAE0s0J_X8zz1EW3zexj1dW4tYdsoTVCCxY"
@@ -11,6 +12,10 @@ except:
     print("already works")
 else:
     pars = parsing.parsing_part()
+    logger = telebot.logger
+    logging.basicConfig(filename='logs.txt', level=logging.DEBUG,
+                               format=' %(asctime)s - %(levelname)s - %(message)s')
+
     @bot.message_handler(commands=['new'])
     def send_new(message):
         links = pars.send_links_to_user()
@@ -25,7 +30,6 @@ else:
     def admin_check(message):
         id, url, date, topic = next(pars.send_links_to_user())
         bot.send_message(message.chat.id, text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
-
     bot.polling(none_stop=True)
 
 #721184252
