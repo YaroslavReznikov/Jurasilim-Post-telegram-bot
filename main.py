@@ -3,21 +3,15 @@
 
 import parsing
 import telebot
-from time import time
 
 try:
     token = "5744717544:AAE0s0J_X8zz1EW3zexj1dW4tYdsoTVCCxY"
     bot = telebot.TeleBot(token)
-    print(bot.user)
+    bot.send_message(721184252, text='I am launched')
 except:
     print("already works")
 else:
     pars = parsing.parsing_part()
-
-    last_time = time()
-    #pars.get_links()
-
-
     @bot.message_handler(commands=['new'])
     def send_new(message):
         links = pars.send_links_to_user()
@@ -34,3 +28,6 @@ else:
         bot.send_message(message.chat.id, text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
 
     bot.polling(none_stop=True)
+
+#721184252
+#721184252
