@@ -5,12 +5,9 @@ import parsing
 import telebot
 import logging
 
-try:
+def main():
     token = "5744717544:AAE0s0J_X8zz1EW3zexj1dW4tYdsoTVCCxY"
     bot = telebot.TeleBot(token)
-except:
-    print("already works")
-else:
     pars = parsing.parsing_part()
     logger = telebot.logger
     logging.basicConfig(filename='logs.txt', level=logging.DEBUG,
