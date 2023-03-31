@@ -8,5 +8,6 @@ if not does_work:
     does_work = True
     try:
         main()
-    except:
+    except Exception as exsp:
+        print(exsp)
         does_work = False
