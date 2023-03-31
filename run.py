@@ -9,4 +9,5 @@ if not does_work:
     try:
         main()
     except Exception as exsp:
+        print(Exception)
         does_work = False
