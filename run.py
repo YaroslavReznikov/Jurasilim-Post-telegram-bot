@@ -3,4 +3,7 @@ from main import main
 
 
 while True:
-    main()
+    try:
+        main()
+    except:
+        pass
