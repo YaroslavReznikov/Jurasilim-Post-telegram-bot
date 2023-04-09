@@ -1,4 +1,9 @@
 import parsing
+try:
+    pars = parsing.parsing_part()
+    pars.get_links()
+except:
+    pass
 
-pars = parsing.parsing_part()
-pars.get_links()
+finally:
+    del pars

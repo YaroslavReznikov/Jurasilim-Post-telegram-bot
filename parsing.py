@@ -7,9 +7,10 @@ import mysql.connector
 
 class Database_connector:
     connect = None
+
     def __new__(cls, *args, **kwargs):
         if not cls.connect:
-            cls.connect = object.__new__(cls,*args, **kwargs)
+            cls.connect = object.__new__(cls, *args, **kwargs)
         return cls.connect
 
     def __init__(self):
@@ -27,11 +28,15 @@ class Database_connector:
 
     def __del__(self):
         self.database.close()
+        self.cursor.close()
 
 class parsing_part:
     def __init__(self):
         self.database = Database_connector()
 
+
+    def __del__(self):
+        del self.database
     def get_links(self):
         for url in self.database.rss_urls:
             if url.strip() == '':
@@ -53,7 +58,7 @@ class parsing_part:
                 try:
                     category = url.strip().split('/')[-1].replace('rss', '').replace('feeds', '').replace('.aspx', '')
                     self.database.cursor.execute("INSERT INTO rss (url, category, bonus) VALUES (%s, %s, %s)",
-                                        (url, category, 0))
+                                                 (url, category, 0))
                     self.database.database.commit()
                 except:
                     pass
