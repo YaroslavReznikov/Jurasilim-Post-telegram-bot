@@ -3,6 +3,5 @@ import time
 
 
 g = Database_connector()
-time.sleep(15)
 print("disconected")
 del g
