@@ -27,7 +27,7 @@ class Database_connector:
         self.rss_urls = list(self.rss_id.keys())
 
     def __del__(self):
-        self.database.disconnect()
+        self.database.shutdown()
         print("connection closed correctly")
 
 class parsing_part:
