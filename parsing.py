@@ -28,7 +28,6 @@ class Database_connector:
 
     def __del__(self):
         self.database.close()
-        self.cursor.close()
         print("connection closed correctly")
 
 class parsing_part:
