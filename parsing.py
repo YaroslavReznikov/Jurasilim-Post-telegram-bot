@@ -25,7 +25,9 @@ class Database_connector:
                             "ORDER BY id;")
         self.rss_id = {url.strip(): number for number, url in self.cursor.fetchall()}
         self.rss_urls = list(self.rss_id.keys())
-
+    def __del__(self):
+        self.database.commit()
+        self.database.close()
 class parsing_part:
     def __init__(self):
         self.database = Database_connector()

@@ -8,4 +8,4 @@ except:
     pass
 
 finally:
-    pars.database.database.close()
+    del pars
