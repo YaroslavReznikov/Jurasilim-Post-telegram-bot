@@ -3,4 +3,5 @@ import time
 
 
 g = Database_connector()
+g.database.commit()
 g.database.close()
