@@ -6,4 +6,5 @@ except:
     pass
 
 finally:
+    print("All new news were addded")
     del pars
