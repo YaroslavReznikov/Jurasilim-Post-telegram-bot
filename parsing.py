@@ -29,6 +29,7 @@ class Database_connector:
     def __del__(self):
         self.database.close()
         self.cursor.close()
+        print("connection closed correctly")
 
 class parsing_part:
     def __init__(self):
@@ -51,6 +52,7 @@ class parsing_part:
                     self.database.database.commit()
                 except:
                     pass
+        del self
 
     def feel_the_rss_database_database(self):
         with open("rss_files.txt", 'r', encoding='UTF-8') as inf:
