@@ -3,7 +3,6 @@
 import parsing
 import telebot
 import logging
-from messages import *
 from setup import bot
 
 
