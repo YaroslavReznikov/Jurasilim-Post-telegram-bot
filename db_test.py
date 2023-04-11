@@ -1,6 +1,4 @@
 from parsing import Database_connector
-import time
+from setup import  url
 
-
-g = Database_connector()
-del g
+print(url)

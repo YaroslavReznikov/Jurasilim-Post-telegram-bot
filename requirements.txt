@@ -32,3 +32,5 @@ telegram==0.0.1
 TelegramBotAPI==0.3.2
 urllib3==1.26.14
 yarl==1.8.2
+
+messages~=0.8.0
