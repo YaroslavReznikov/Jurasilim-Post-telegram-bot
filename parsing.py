@@ -65,7 +65,7 @@ class ParsingPart:
         try:
             self.database.cursor.execute(F"INSERT INTO user_getted_urls (User_id, sended_urls) VALUES ({users_id}, '')")
         except Exception as e:
-            print(e)
+            pass
         self.database.cursor.execute(
             F"SELECT sended_urls FROM user_getted_urls "
             F"WHERE User_id = {users_id}"
