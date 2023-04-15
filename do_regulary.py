@@ -1,6 +1,6 @@
 import parsing
 
-pars = parsing.parsing_part()
+pars = parsing.ParsingPart()
 
 try:
     pars.get_links()

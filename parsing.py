@@ -5,7 +5,7 @@ from setup import password, database_name, host, user
 import mysql.connector
 
 
-class Database_connector:
+class DatabaseConnector:
     connect = None
 
     def __new__(cls, *args, **kwargs):
@@ -25,16 +25,16 @@ class Database_connector:
                             "ORDER BY id;")
         self.rss_id = {url.strip(): number for number, url in self.cursor.fetchall()}
         self.rss_urls = list(self.rss_id.keys())
+
     def __del__(self):
         self.database.commit()
         self.database.close()
-class parsing_part:
+
+
+class ParsingPart:
     def __init__(self):
-        self.database = Database_connector()
+        self.database = DatabaseConnector()
 
-
-    def __del__(self):
-        del self.database
     def get_links(self):
         for url in self.database.rss_urls:
             if url.strip() == '':
@@ -49,7 +49,6 @@ class parsing_part:
                     self.database.database.commit()
                 except:
                     pass
-        del self
 
     def feel_the_rss_database_database(self):
         with open("rss_files.txt", 'r', encoding='UTF-8') as inf:
@@ -62,18 +61,36 @@ class parsing_part:
                 except:
                     pass
 
-    def set_sended_to_zero(self):
-        self.database.cursor.execute("UPDATE jurusalem_post sended = 0")
-
-    def send_links_to_user(self):
+    def send_links_to_user(self, users_id):
+        try:
+            self.database.cursor.execute(F"INSERT INTO user_getted_urls (User_id, sended_urls) VALUES ({users_id}, '')")
+        except Exception as e:
+            print(e)
         self.database.cursor.execute(
-            "SELECT jurusalem_post.url, jurusalem_post.publication_date, jurusalem_post.id, rss.category, jurusalem_post.rss_row "
-            "FROM jurusalem_post INNER JOIN rss ON jurusalem_post.rss_row = rss.id"
-            " WHERE sended = 0"
-            " ORDER BY ADDTIME(TIMEDIFF(CURRENT_TIMESTAMP(), publication_date), -rss.bonus * 10000);")
+            F"SELECT sended_urls FROM user_getted_urls "
+            F"WHERE User_id = {users_id}"
+        )
+        news_that_user_got = self.database.cursor.fetchall()
+        urls = [t[0] for t in news_that_user_got]
+        url_str = ''.join(urls)
+
+        self.database.cursor.execute(
+            F"SELECT jurusalem_post.url, jurusalem_post.publication_date, jurusalem_post.id, rss.category, jurusalem_post.rss_row "
+            F"FROM jurusalem_post INNER JOIN rss ON jurusalem_post.rss_row = rss.id"
+            F" WHERE LOCATE(jurusalem_post.url, '{url_str}') = 0"
+            F" ORDER BY ADDTIME(TIMEDIFF(CURRENT_TIMESTAMP(), publication_date), -rss.bonus * 10000);")
         result = self.database.cursor.fetchall()
         for url, date, id, topic, row in result:
+            self.add_url(users_id, url_str, url)
             yield [id, url, date, topic]
+
+    def add_url(self, users_id, urls, url):
+        self.database.cursor.execute(F"UPDATE user_getted_urls"
+                                     F" SET sended_urls = '{''.join(urls) + url}'"
+                                     F" WHERE User_id = {users_id};"
+                                     )
+        self.database.database.commit()
+
 
     def update_sended(self, id):
         self.database.cursor.execute(F"UPDATE jurusalem_post SET sended = true WHERE ID = {id};", )

@@ -1,4 +1,2 @@
-from parsing import Database_connector
+from parsing import DatabaseConnector, ParsingPart
 from setup import  url
-
-print(url)
