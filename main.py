@@ -18,7 +18,6 @@ def main():
             users_id, url, date, topic = next(links)
             bot.send_message(message.chat.id,
                              text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
-            pars.update_sended(users_id)
 
     @bot.message_handler(commands=['check'])
     def admin_check(message):

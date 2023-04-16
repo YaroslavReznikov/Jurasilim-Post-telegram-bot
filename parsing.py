@@ -71,27 +71,24 @@ class ParsingPart:
             F"WHERE User_id = {users_id}"
         )
         news_that_user_got = self.database.cursor.fetchall()
-        urls = [t[0] for t in news_that_user_got]
-        url_str = ''.join(urls)
+        ids_of_sended_news = [t[0] for t in news_that_user_got]
+        ids_of_sended_news_str = ' '.join(ids_of_sended_news)
 
         self.database.cursor.execute(
             F"SELECT jurusalem_post.url, jurusalem_post.publication_date, jurusalem_post.id, rss.category, jurusalem_post.rss_row "
             F"FROM jurusalem_post INNER JOIN rss ON jurusalem_post.rss_row = rss.id"
-            F" WHERE LOCATE(jurusalem_post.url, '{url_str}') = 0"
+            F" WHERE LOCATE(jurusalem_post.id, '{ids_of_sended_news_str}') = 0"
             F" ORDER BY ADDTIME(TIMEDIFF(CURRENT_TIMESTAMP(), publication_date), -rss.bonus * 10000);")
         result = self.database.cursor.fetchall()
-        for url, date, id, topic, row in result:
-            self.add_url(users_id, url_str, url)
-            yield [id, url, date, topic]
+        for url, date, news_id, topic, row in result:
+            self.add_url(users_id, ids_of_sended_news_str, news_id)
+            yield [news_id, url, date, topic]
 
-    def add_url(self, users_id, urls, url):
+    def add_url(self, users_id, ids_of_sended_news, new_id):
         self.database.cursor.execute(F"UPDATE user_getted_urls"
-                                     F" SET sended_urls = '{''.join(urls) + url}'"
+                                     F" SET sended_urls = '{''.join(ids_of_sended_news) + ' ' + str(new_id)}'"
                                      F" WHERE User_id = {users_id};"
                                      )
         self.database.database.commit()
 
 
-    def update_sended(self, id):
-        self.database.cursor.execute(F"UPDATE jurusalem_post SET sended = true WHERE ID = {id};", )
-        self.database.database.commit()
