@@ -1,2 +1,1 @@
-from parsing import DatabaseConnector, ParsingPart
-from setup import  url
+print('0 '* 47)

@@ -10,7 +10,7 @@ class DatabaseConnector:
 
     def __new__(cls, *args, **kwargs):
         if not cls.connect:
-            cls.connect = object.__new__(cls, *args, **kwargs)
+            cls.connect = object.__new__(cls)
         return cls.connect
 
     def __init__(self):
@@ -21,10 +21,42 @@ class DatabaseConnector:
             database=database_name,
         )
         self.cursor = self.database.cursor(buffered=True)
-        self.cursor.execute("SELECT id, url FROM rss "
+        self.cursor.execute("SELECT id, url FROM channels "
                             "ORDER BY id;")
-        self.rss_id = {url.strip(): number for number, url in self.cursor.fetchall()}
-        self.rss_urls = list(self.rss_id.keys())
+        self.channels_ids = {url.strip(): number for number, url in self.cursor.fetchall()}
+        self.channels_urls = list(self.channels_ids.keys())
+
+    @property
+    def cursor(self):
+        return self.__cursor
+
+    @cursor.setter
+    def cursor(self, new):
+        self.__cursor = new
+
+    @property
+    def channels_ids(self):
+        return self.__channels_ids
+
+    @channels_ids.setter
+    def channels_ids(self, new):
+        self.__channels_ids = new
+
+    @property
+    def database(self):
+        return self.__database
+
+    @database.setter
+    def database(self, new):
+        self.__database = new
+
+    @property
+    def channels_urls(self):
+        return self.__channels_urls
+
+    @channels_urls.setter
+    def channels_urls(self, new):
+        self.__channels_urls = new
 
     def __del__(self):
         self.database.commit()
@@ -36,59 +68,82 @@ class ParsingPart:
         self.database = DatabaseConnector()
 
     def get_links(self):
-        for url in self.database.rss_urls:
+        for url in self.database.channels_urls:
             if url.strip() == '':
                 break
             root = ET.fromstring(requests.get(url.strip()).text)
             for item in root.iter('item'):
                 date = datetime.strptime(item.find('pubDate').text.replace(' GMT', ''), '%a, %d %b %Y %H:%M:%S')
-                try:
-                    self.database.cursor.execute(
-                        "INSERT INTO jurusalem_post (url, publication_date, rss_row) VALUES (%s, %s, %s)",
-                        (item.find('link').text, date, self.database.rss_id[url.strip()]))
-                    self.database.database.commit()
-                except:
-                    pass
+                self.database.cursor.execute(
+                    "INSERT IGNORE INTO news (url, publication_datetime, channels_id) VALUES (%s, %s, %s)",
+                    (item.find('link').text, date, self.database.channels_ids[url.strip()]))
+                self.database.database.commit()
 
-    def feel_the_rss_database_database(self):
+    def fill_the_channels_database_with_basic_news(self):
         with open("rss_files.txt", 'r', encoding='UTF-8') as inf:
             for url in inf:
-                try:
-                    category = url.strip().split('/')[-1].replace('rss', '').replace('feeds', '').replace('.aspx', '')
-                    self.database.cursor.execute("INSERT INTO rss (url, category, bonus) VALUES (%s, %s, %s)",
-                                                 (url, category, 0))
-                    self.database.database.commit()
-                except:
-                    pass
+                category = url.strip().split('/')[-1].replace('rss', '').replace('feeds', '').replace('.aspx',
+                                                                                                      '').replace(
+                    '.html', '').replace(
+                    'xml', '')
+                self.database.cursor.execute("INSERT IGNORE INTO channels (url, category) VALUES (%s, %s,)",
+                                             (url, category))
+                self.database.database.commit()
 
-    def send_links_to_user(self, users_id):
-        try:
-            self.database.cursor.execute(F"INSERT INTO user_getted_urls (User_id, sended_urls) VALUES ({users_id}, '')")
-        except Exception as e:
-            pass
-        self.database.cursor.execute(
-            F"SELECT sended_urls FROM user_getted_urls "
-            F"WHERE User_id = {users_id}"
-        )
-        news_that_user_got = self.database.cursor.fetchall()
-        ids_of_sended_news = [t[0] for t in news_that_user_got]
-        ids_of_sended_news_str = ' '.join(ids_of_sended_news)
+    def first_time_using(self, users_id):
+        for i in range(1, 41):
+            self.database.cursor.execute(
+                f"INSERT IGNORE INTO channel (telegram_id, wanted_news, adding_datetime, bonus) "
+                f"VALUES ({users_id}, {i}, '{datetime.today()}', 0);"
 
+            )
+            self.database.database.commit()
+
+    def find_links_for_user(self, users_id, user_wanted_amount_of_news):
+        self.first_time_using(users_id)
         self.database.cursor.execute(
-            F"SELECT jurusalem_post.url, jurusalem_post.publication_date, jurusalem_post.id, rss.category, jurusalem_post.rss_row "
-            F"FROM jurusalem_post INNER JOIN rss ON jurusalem_post.rss_row = rss.id"
-            F" WHERE LOCATE(jurusalem_post.id, '{ids_of_sended_news_str}') = 0"
-            F" ORDER BY ADDTIME(TIMEDIFF(CURRENT_TIMESTAMP(), publication_date), -rss.bonus * 10000);")
+            f"SELECT news.url, news.publication_datetime, news.id, news.channels_id, "
+            f"(SELECT category FROM channels WHERE id = news.channels_id) AS category "
+            f"FROM news "
+            f"INNER JOIN channel ON channel.wanted_news = news.channels_id "
+            f"LEFT JOIN user_got_urls ON user_got_urls.telegram_id = {users_id} "
+            f"AND user_got_urls.sent_urls = news.id "
+            f"WHERE user_got_urls.sent_urls IS NULL "
+            f"ORDER BY ADDTIME(TIMEDIFF(CURRENT_TIMESTAMP(), publication_datetime), -(channel.bonus * 10000)) "
+            f"LIMIT {user_wanted_amount_of_news};")
         result = self.database.cursor.fetchall()
-        for url, date, news_id, topic, row in result:
-            self.add_url(users_id, ids_of_sended_news_str, news_id)
-            yield [news_id, url, date, topic]
+        return result
 
-    def add_url(self, users_id, ids_of_sended_news, new_id):
-        self.database.cursor.execute(F"UPDATE user_getted_urls"
-                                     F" SET sended_urls = '{''.join(ids_of_sended_news) + ' ' + str(new_id)}'"
-                                     F" WHERE User_id = {users_id};"
-                                     )
+    def add_url(self, users_id, new_id):
+        self.database.cursor.execute(F"INSERT INTO user_got_urls (telegram_id, sent_urls, getting_datetime)"
+                                     F" VALUES ({users_id}, {new_id}, '{datetime.today()}');")
         self.database.database.commit()
 
+    @staticmethod
+    def url_check(rss_url):
+        try:
+            requests.get(rss_url)
+        except:
+            raise "Something wrong with given url"
 
+    def get_row_of_url_in_news(self, rss_url):
+        self.url_check(rss_url)
+        self.database.cursor.execute(F"SELECT id FROM channels"
+                                     F" WHERE url = '{rss_url}'"
+                                     F" LIMIT 1;")
+        return self.database.cursor.fetchall()[0]
+
+    def insert_into_channels(self, rss_url):
+        category = rss_url.strip().split('/')[-1].replace('rss', '').replace('feeds', '').replace('.aspx', '').replace(
+            '.html', '').replace('xml', '')
+        self.database.cursor.execute(F"INSERT IGNORE  INTO channels (url, category) "
+                                     F"VALUES ('{rss_url}', '{category}');")
+        self.database.database.commit()
+
+    def add_new_source(self, rss_url, users_id, prio):
+        self.url_check(rss_url)
+        self.insert_into_channels(rss_url)
+        row = self.get_row_of_url_in_news(rss_url)
+        self.database.cursor.execute(f"INSERT IGNORE INTO channel (telegram_id, wanted_news, adding_datetime, bonus)"
+                                     F" VALUES ({users_id}, '{row[0]}', '{datetime.today()}', {prio});")
+        self.database.database.commit()
