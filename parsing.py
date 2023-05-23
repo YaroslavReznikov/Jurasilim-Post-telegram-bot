@@ -99,6 +99,7 @@ class ParsingPart:
             self.database.database.commit()
 
     def find_links_for_user(self, users_id, user_wanted_amount_of_news):
+        print(3)
         self.first_time_using(users_id)
         self.database.cursor.execute(
             f"SELECT news.url, news.publication_datetime, news.id, news.channels_id, "
