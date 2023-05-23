@@ -1,4 +1,7 @@
 from main import main
 
-main()
-
+while True:
+    try:
+        main()
+    except:
+        pass
