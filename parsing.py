@@ -25,10 +25,6 @@ class DatabaseConnector:
                             "ORDER BY id;")
         self.channels_ids = {url.strip(): number for number, url in self.cursor.fetchall()}
         self.channels_urls = list(self.channels_ids.keys())
-        self.cursor.execute(F"SET SESSION connect_timeout = {10}")
-        self.cursor.execute(F"SET SESSION wait_timeout = {10}")
-        self.cursor.execute(F"SET SESSION interactive_timeout = {10}")
-
     @property
     def cursor(self):
         return self.__cursor
