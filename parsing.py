@@ -72,6 +72,7 @@ class ParsingPart:
                 break
             root = ET.fromstring(requests.get(url.strip()).text)
             for item in root.iter('item'):
+                print(item)
                 date = datetime.strptime(item.find('pubDate').text.replace(' GMT', ''), '%a, %d %b %Y %H:%M:%S')
                 self.database.cursor.execute(
                     "INSERT IGNORE INTO news (url, publication_datetime, channels_id) VALUES (%s, %s, %s)",
@@ -88,7 +89,6 @@ class ParsingPart:
                 self.database.cursor.execute("INSERT IGNORE INTO channels (url, category) VALUES (%s, %s,)",
                                              (url, category))
                 self.database.database.commit()
-
     def first_time_using(self, users_id):
         for i in range(1, 41):
             self.database.cursor.execute(
