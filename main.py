@@ -45,6 +45,5 @@ def main():
             pars.add_url(message.chat.id, news_id)
             bot.send_message(message.chat.id,
                              text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
-            pars.get_links()
         del links
     bot.polling(none_stop=True)
