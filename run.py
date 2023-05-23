@@ -4,4 +4,4 @@ while True:
     try:
         main()
     except:
-        pass
+        print(Exception)
