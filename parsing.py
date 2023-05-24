@@ -103,7 +103,7 @@ class ParsingPart:
     def find_links_for_user(self, users_id, user_wanted_amount_of_news):
         self.first_time_using(users_id)
         current_timestamp = datetime.now()
-        query = f"SELECT news.url, news.publication_datetime, news.ID, news.channels_id, channels.category " \
+        query = f"SELECT DISTINCT news.url, news.publication_datetime, news.ID, news.channels_id, channels.category " \
                 f"FROM news " \
                 f"INNER JOIN channel ON channel.wanted_news = news.channels_id " \
                 f"INNER JOIN channels ON channels.id = news.channels_id " \
