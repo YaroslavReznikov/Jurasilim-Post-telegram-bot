@@ -113,7 +113,10 @@ class ParsingPart:
         return result
 
     def add_url(self, users_id, new_id):
-        print(11)
+        self.database.cursor.execute(F"SELECT id FROM user_got_urls "
+                                     F"WHERE telegram_id = {users_id} AND sent_urls = {new_id}")
+        print(self.database.cursor.fetchall())
+        print(users_id, new_id)
         self.database.cursor.execute(F"INSERT IGNORE INTO user_got_urls (telegram_id, sent_urls, getting_datetime)"
                                      F" VALUES ({users_id}, {new_id}, '{datetime.today()}');")
         print(12)
