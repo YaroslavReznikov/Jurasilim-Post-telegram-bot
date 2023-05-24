@@ -98,7 +98,6 @@ class ParsingPart:
             self.database.database.commit()
 
     def find_links_for_user(self, users_id, user_wanted_amount_of_news):
-        print(3)
         self.first_time_using(users_id)
         self.database.cursor.execute(
             f"SELECT news.url, news.publication_datetime, news.id, news.channels_id, "
@@ -111,11 +110,10 @@ class ParsingPart:
             f"ORDER BY ADDTIME(TIMEDIFF(CURRENT_TIMESTAMP(), publication_datetime), -(channel.bonus * 10000)) "
             f"LIMIT {user_wanted_amount_of_news};")
         result = self.database.cursor.fetchall()
-        print(result)
         return result
 
     def add_url(self, users_id, new_id):
-        self.database.cursor.execute(F"INSERT INTO user_got_urls (telegram_id, sent_urls, getting_datetime)"
+        self.database.cursor.execute(F"INSERT IGNORE INTO user_got_urls (telegram_id, sent_urls, getting_datetime)"
                                      F" VALUES ({users_id}, {new_id}, '{datetime.today()}');")
         self.database.database.commit()
 
