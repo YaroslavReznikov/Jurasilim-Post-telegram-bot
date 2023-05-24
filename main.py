@@ -35,15 +35,14 @@ def main():
         links = pars.find_links_for_user(message.chat.id, 5)
         for url, date, news_id, channels_row, topic, bonus in links:
             pars.add_url(message.chat.id, news_id)
-            print(url)
             bot.send_message(message.chat.id,
                              text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
-        print(' ')
-        bot.send_message(message.chat.id, text = 'ghgh')
+
     def admin_check(message):
         links = pars.find_links_for_user(message.chat.id, 1)
         for url, date, news_id, channels_row, topic in links:
             pars.add_url(message.chat.id, news_id)
             bot.send_message(message.chat.id,
                              text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
+
     bot.polling(none_stop=True)

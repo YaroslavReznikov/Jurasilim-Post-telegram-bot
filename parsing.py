@@ -2,9 +2,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 
 import mysql.connector
-import psutil
 import requests
-import os
 from setup import password, database_name, host, user
 
 
@@ -28,6 +26,7 @@ class DatabaseConnector:
                             "ORDER BY id;")
         self.channels_ids = {url.strip(): number for number, url in self.cursor.fetchall()}
         self.channels_urls = list(self.channels_ids.keys())
+
     @property
     def cursor(self):
         return self.__cursor
@@ -91,6 +90,7 @@ class ParsingPart:
                 self.database.cursor.execute("INSERT IGNORE INTO channels (url, category) VALUES (%s, %s,)",
                                              (url, category))
                 self.database.database.commit()
+
     def first_time_using(self, users_id):
         for i in range(1, 41):
             self.database.cursor.execute(
@@ -113,7 +113,6 @@ class ParsingPart:
                 f"LIMIT {user_wanted_amount_of_news};"
         self.database.cursor.execute(query)
         result = self.database.cursor.fetchall()
-        print(result)
         return result
 
     def add_url(self, users_id, new_id):
