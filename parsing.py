@@ -111,7 +111,7 @@ class ParsingPart:
             f"ORDER BY ADDTIME(TIMEDIFF(CURRENT_TIMESTAMP(), publication_datetime), -(channel.bonus * 10000)) "
             f"LIMIT {user_wanted_amount_of_news};")
         result = self.database.cursor.fetchall()
-        print(4)
+        print(result)
         return result
 
     def add_url(self, users_id, new_id):
