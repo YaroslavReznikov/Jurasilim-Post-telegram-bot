@@ -33,7 +33,7 @@ def main():
 
     def send_new(message):
         links = pars.find_links_for_user(message.chat.id, 5)
-        for url, date, news_id, channels_row, topic in links:
+        for url, date, news_id, channels_row, topic, bonus in links:
             pars.add_url(message.chat.id, news_id)
             print(url)
             bot.send_message(message.chat.id,
