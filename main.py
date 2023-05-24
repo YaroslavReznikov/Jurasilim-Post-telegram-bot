@@ -35,6 +35,7 @@ def main():
         links = pars.find_links_for_user(message.chat.id, 5)
         for url, date, news_id, channels_row, topic in links:
             pars.add_url(message.chat.id, news_id)
+            print(10)
             bot.send_message(message.chat.id,
                              text=F"{date.strftime('%d.%m.%Y, %H:%M')}\n{topic.strip()}\n{url.strip()}")
         bot.send_message(message.chat.id, text = 'ghgh')
