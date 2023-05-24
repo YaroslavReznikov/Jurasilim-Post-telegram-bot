@@ -1,8 +1,11 @@
-import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
-from setup import password, database_name, host, user
+
 import mysql.connector
+import psutil
+import requests
+import os
+from setup import password, database_name, host, user
 
 
 class DatabaseConnector:
@@ -110,9 +113,11 @@ class ParsingPart:
             f"ORDER BY ADDTIME(TIMEDIFF(CURRENT_TIMESTAMP(), publication_datetime), -(channel.bonus * 10000)) "
             f"LIMIT {user_wanted_amount_of_news};")
         result = self.database.cursor.fetchall()
+        print(psutil.Process(os.getpid()).memory_info().rss / 1024 ** 2)
         return result
 
     def add_url(self, users_id, new_id):
+        self.database.cursor.execute("ALTER DATABASE SCOPED CONFIGURATION CLEAR PROCEDURE_CACHE;")
         self.database.cursor.execute("INSERT IGNORE INTO user_got_urls (telegram_id, sent_urls, getting_datetime) "
                                      "VALUES (%s, %s, %s)", (users_id, new_id, datetime.today()))
         self.database.database.commit()

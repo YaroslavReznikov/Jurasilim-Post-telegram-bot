@@ -3,5 +3,5 @@ from main import main
 while True:
     try:
         main()
-    except:
-        print(Exception)
+    except Exception as e:
+        print(e)
