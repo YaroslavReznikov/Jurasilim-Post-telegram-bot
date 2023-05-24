@@ -116,6 +116,7 @@ class ParsingPart:
         print(11)
         self.database.cursor.execute(F"INSERT IGNORE INTO user_got_urls (telegram_id, sent_urls, getting_datetime)"
                                      F" VALUES ({users_id}, {new_id}, '{datetime.today()}');")
+        print(12)
         self.database.database.commit()
 
     @staticmethod
