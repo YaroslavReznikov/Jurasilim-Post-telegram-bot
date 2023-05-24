@@ -114,6 +114,7 @@ class ParsingPart:
                 f"LIMIT {user_wanted_amount_of_news};"
         self.database.cursor.execute(query)
         result = self.database.cursor.fetchall()
+        print(result)
         return result
 
     def add_url(self, users_id, new_id):
