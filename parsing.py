@@ -103,12 +103,11 @@ class ParsingPart:
     def find_links_for_user(self, users_id, user_wanted_amount_of_news):
         self.first_time_using(users_id)
         current_timestamp = datetime.now()
-        query = f"SELECT DISTINCT news.url, news.publication_datetime, news.ID, news.channels_id, channels.category " \
+        query = f"SELECT DISTINCT news.url, news.publication_datetime, news.ID, news.channels_id, channels.category, channel.bonus " \
                 f"FROM news " \
                 f"INNER JOIN channel ON channel.wanted_news = news.channels_id " \
                 f"INNER JOIN channels ON channels.id = news.channels_id " \
-                f"LEFT JOIN user_got_urls ON user_got_urls.telegram_id = {users_id} " \
-                f"AND user_got_urls.sent_urls = news.ID " \
+                f"LEFT JOIN user_got_urls ON user_got_urls.telegram_id = {users_id} AND user_got_urls.sent_urls = news.ID " \
                 f"WHERE user_got_urls.sent_urls IS NULL " \
                 f"ORDER BY ADDTIME(TIMEDIFF('{current_timestamp}', publication_datetime), -(channel.bonus * 10000)) " \
                 f"LIMIT {user_wanted_amount_of_news};"
