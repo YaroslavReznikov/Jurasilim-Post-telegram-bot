@@ -72,7 +72,6 @@ class ParsingPart:
                 break
             root = ET.fromstring(requests.get(url.strip()).text)
             for item in root.iter('item'):
-                print(item)
                 date = datetime.strptime(item.find('pubDate').text.replace(' GMT', ''), '%a, %d %b %Y %H:%M:%S')
                 self.database.cursor.execute(
                     "INSERT IGNORE INTO news (url, publication_datetime, channels_id) VALUES (%s, %s, %s)",
