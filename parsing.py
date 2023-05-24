@@ -114,7 +114,6 @@ class ParsingPart:
                 f"LIMIT {user_wanted_amount_of_news};"
         self.database.cursor.execute(query)
         result = self.database.cursor.fetchall()
-        print(psutil.Process(os.getpid()).memory_info().rss / 1024 ** 2)
         return result
 
     def add_url(self, users_id, new_id):
